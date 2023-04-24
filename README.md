@@ -11,7 +11,7 @@ V.1.0.0 (Base):
 
 -1 Material: Tarp Sheet.
 
--1 Clothing item: Ranger Stachel. Adds +2kg bonus.
+-1 Clothing item: Ranger Satchel. Adds +2kg bonus.
 
 -6 Research books: Survival 101 series.
 
