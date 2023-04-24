@@ -1,5 +1,5 @@
 # Jods-Camping-Tools
-A mod for TLD that adds tools for outdoors adventures.
+A mod for TLD that adds tools for outdoors adventures. Open to sugestions!
 
 Contents:
 
