@@ -1,0 +1,20 @@
+scene=QuonsetGasStation
+item=GEAR_TapeRoll p=-4.4672,1.6163,1.0320 r=0.0000,321.5501,0.0000 c=50
+item=GEAR_TapeRoll p=-4.5662,0.0135,1.0617 r=0.0000,318.9288,0.0000 c=25
+
+scene=MaintenanceShedA
+item=GEAR_TapeRoll p=1.8274,0.9868,-24.9740 r=0.0000,358.5167,0.0000 c=35
+item=GEAR_TapeRoll p=3.8234,0.9870,-24.1012 r=0.0000,279.9705,0.0000 c=25
+item=GEAR_TapeRoll p=4.0099,0.9870,-23.8400 r=-0.0000,8.0199,-0.0000 c=15
+
+scene=MaintenanceShedB
+item=GEAR_TapeRoll p=0.2971,1.6293,-23.5397 r=0.0000,335.1464,0.0000 c=35
+item=GEAR_TapeRoll p=3.9407,1.0388,-26.3980 r=-0.0000,160.8523,-0.0000 c=20
+
+scene=BarnHouseA
+item=GEAR_TapeRoll p=-6.9434,6.2683,2.1481 r=0.0000,21.2968,359.9138 c=25
+item=GEAR_TapeRoll p=-6.9814,5.1925,4.4812 r=-0.0000,238.2072,359.9138 c=10
+
+scene=FarmHouseABasement
+item=GEAR_TapeRoll p=-5.4649,1.8684,-0.2285 r=-0.0000,26.8132,-0.0000 c=50
+item=GEAR_TapeRoll p=-8.3108,1.9380,-1.1006 r=-0.0000,31.7037,-0.0000 c=25
