@@ -1,0 +1,146 @@
+﻿{
+    "GAMEPLAY_KnifeJ" : {
+                            "English" : "Jeremiah's Knife",
+							"Spanish (Spain)" : "Cuchillo de Jeremiah"
+    },
+    "GAMEPLAY_KnifeJDescription" : {
+                            "English" : "A superior quality hunting knife. Heavier, but sharper. Whoever owned this was someone you wouldn't want to cross.",
+							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte."
+    },
+	"GAMEPLAY_KnifeS" : {
+                            "English" : "Scrap Metal Shard",
+							"Spanish (Spain)" : "Frangmento de chatarra"
+    },
+    "GAMEPLAY_KnifeSDescription" : {
+                            "English" : "Sharp piece of scrap metal that barely serves as an improvised knife. It's better than nothing.",
+							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada."
+    },
+	"GAMEPLAY_TarpSheet" : {
+							 "English" : "Tarp Sheet",
+							"Spanish (Spain)" : "Lona"
+	},
+	"GAMEPLAY_TarpSheetDescription" : {
+							"English" : "A big, sturdy piece of hemp fibers with metal rings attached.",
+							"Spanish (Spain)" : "Una pieza grande y resistente de fibras de cáñamo con anillos de metal unidos."
+	},
+	"GAMEPLAY_TapeRoll" : {
+							"English" : "Tape Roll",
+							"Spanish (Spain)" : "Rollo de cinta"
+	},
+	"GAMEPLAY_TapeRollDescription" : {
+							"English" : "A roll of industrial-grade duct tape. Useful for patching holes and glue things together.",
+							"Spanish (Spain)" : "Un rollo de cinta adhesiva industrial. Útil para tapar agujeros y pegar cosas."
+	},
+	"GAMEPLAY_Tent" : {
+							"English" : "Tarp Tent",
+							"Spanish (Spain)" : "Tienda de lona"
+	},
+	"GAMEPLAY_TentDescription" : {
+							"English" : "An improvised tent, made out of tarp sheets, some cloth and spare metal parts, barely held toghether with duct tape. Not the best, but better than sleeping out in the open.",
+							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie."
+	},
+	"GAMEPLAY_SatchelM" : {
+							"English" : "Ranger Satchel",
+							"Spanish (Spain)" : "Bolsa de guardabosques"
+	},
+	"GAMEPLAY_SatchelMDescription" : {
+							"English" : "A well made bag for carrying small items. Durable and useful.",
+							"Spanish (Spain)" : "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil."
+	},
+	"GAMEPLAY_MapML" : {
+							"English" : "Mystery Lake Map",
+							"Spanish (Spain)" : "Mapa del Lago Misterioso"
+	},
+	"GAMEPLAY_MapMLDescription" : {
+							"English" : "A map of Mystery Lake for touristic purposes.",
+							"Spanish (Spain)" : "Un mapa del Lago Misterioso con fines turísticos."
+	},
+	"GAMEPLAY_MapMT" : {
+							"English" : "Milton Map",
+							"Spanish (Spain)" : "Mapa de Milton"
+	},
+	"GAMEPLAY_MapMTDescription" : {
+							"English" : "A map of Milton for touristic purposes.",
+							"Spanish (Spain)" : "Un mapa de Milton con fines turísticos."
+	},
+	"GAMEPLAY_MapBI" : {
+							"English" : "Bleak Inlet Map",
+							"Spanish (Spain)" : "Mapa de la Ensenada Lóbrega"
+	},
+	"GAMEPLAY_MapBIDescription" : {
+							"English" : "A map of Bleak Inlet for touristic purposes.",
+							"Spanish (Spain)" : "Un mapa de la Ensenada Lóbrega con fines turísticos."
+	},
+	"GAMEPLAY_MapPV" : {
+							"English" : "Pleasant Valley Map",
+							"Spanish (Spain)" : "Mapa del Valle Apacible"
+	},
+	"GAMEPLAY_MapPVDescription" : {
+							"English" : "A map of Pleasant Valley for touristic purposes.",
+							"Spanish (Spain)" : "Un mapa del Valle Apacible con fines turísticos."
+	},
+	"GAMEPLAY_MapCH" : {
+							"English" : "Coastal Highway Map",
+							"Spanish (Spain)" : "Mapa de la Autovía Litoral"
+	},
+	"GAMEPLAY_MapCHDescription" : {
+							"English" : "A map of Coastal Highway for touristic purposes.",
+							"Spanish (Spain)" : "Un mapa de la Autovía Litoral con fines turísticos."
+	}	,
+	"GAMEPLAY_TentBear" : {
+							"English" : "Hunter's Tent",
+							"Spanish (Spain)" : "Tienda de cazador"
+	},
+	"GAMEPLAY_TentBearDescription" : {
+							"English" : "A heavy and sturdy tent, made out of bear hide and wood. Will hold during blizzards and maybe scare wolves.",
+							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos."
+	},
+	"GAMEPLAY_Book1011" : {
+							"English" : "Survival 101 Vol.1",
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.1"
+	},
+	"GAMEPLAY_Book1011Description" : {
+							"English" : "1st volume of a series. This one is called 'Camping Outside'. This book teaches you how to start making lasting fires.",
+							"Spanish (Spain)" : "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos."
+	},
+	"GAMEPLAY_Book1012" : {
+							"English" : "Survival 101 Vol.2",
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.2"
+	},
+	"GAMEPLAY_Book1012Description" : {
+							"English" : "2nd volume of a series. This one is called 'Cooking Basics'. This book teaches you how to properly prepare food.",
+							"Spanish (Spain)" : "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada."
+	},
+	"GAMEPLAY_Book1013" : {
+							"English" : "Survival 101 Vol.3",
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.3"
+	},
+	"GAMEPLAY_Book1013Description" : {
+							"English" : "3rd volume of a series. This one is called 'Clothing Misfortune'. This book teaches you how to mend worn out clothes.",
+							"Spanish (Spain)" : "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada."
+	},
+	"GAMEPLAY_Book1014" : {
+							"English" : "Survival 101 Vol.4",
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.4"
+	},
+	"GAMEPLAY_Book1014Description" : {
+							"English" : "4th volume of a series. This one is called 'Mind the Hook'. This book teaches you how to fish in frozen landscapes.",
+							"Spanish (Spain)" : "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados."
+	},
+	"GAMEPLAY_Book1015" : {
+							"English" : "Survival 101 Vol.5",
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.5"
+	},
+	"GAMEPLAY_Book1015Description" : {
+							"English" : "5th volume of a series. This one is called 'Stalking Prey'. This book teaches you how to hunt with a bow.",
+							"Spanish (Spain)" : "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco."
+	},
+	"GAMEPLAY_Book1016" : {
+							"English" : "Survival 101 Vol.6",
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.6"
+	},
+	"GAMEPLAY_Book1016Description" : {
+							"English" : "6th volume of a series. This one is called 'Handling Carcasses'. This book teaches you how to properly harvest prey and get the best out of it.",
+							"Spanish (Spain)" : "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas."
+	}
+}

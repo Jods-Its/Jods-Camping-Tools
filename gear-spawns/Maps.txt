@@ -1,0 +1,14 @@
+scene=CampOffice
+item=GEAR_MapML p=3.3215,1.1719,0.1205 r=-0.0000,15.0495,-0.0000 c=100
+
+scene=QuonsetGasStation
+item=GEAR_MapCH p=5.3426,0.6055,3.6872 r=-0.0000,179.2163,-0.0000 c=100
+
+scene=RuralStoreA
+item=GEAR_MapPV p=2.7029,0.9157,0.5566 r=-0.0000,75.9056,-0.0000 c=100
+
+scene=ConvenienceStoreA
+item=GEAR_MapMT p=-6.0557,0.6023,7.5560 r=0.0000,295.4237,0.0000 c=100
+
+scene=CanneryRegion
+item=GEAR_MapBI p=296.6992,240.0623,351.5539 r=0.0000,354.9785,0.0000 c=100

@@ -1,0 +1,9 @@
+loottable=LootTableToolChest
+item=TapeRoll w=7
+loottable=LootTableToolChestDrawer
+item=TapeRoll w=5
+loottable=LootTableLockerLocked
+item=TapeRoll w=5
+loottable=LootTableFileCabinet
+item=TapeRoll w=6
+

@@ -1,0 +1,2 @@
+scene=SafeHouseA
+item=GEAR_KnifeJ p=-5.3022,1.6374,7.1753 r=359.7480,70.0885,359.3134 c=100

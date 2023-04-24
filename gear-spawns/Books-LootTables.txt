@@ -1,0 +1,28 @@
+loottable=LootTableFileCabinet
+item=Book1011 w=2
+item=Book1012 w=2
+item=Book1013 w=2
+item=Book1014 w=2
+item=Book1015 w=2
+item=Book1016 w=2
+loottable=LootTableMetalBox
+item=Book1011 w=3
+item=Book1012 w=3
+item=Book1013 w=3
+item=Book1014 w=3
+item=Book1015 w=3
+item=Book1016 w=3
+loottable=LootTableLockerLocked
+item=Book1011 w=4
+item=Book1012 w=4
+item=Book1013 w=4
+item=Book1014 w=4
+item=Book1015 w=4
+item=Book1016 w=4
+loottable=LootTableSafe
+item=Book1011 w=5
+item=Book1012 w=5
+item=Book1013 w=5
+item=Book1014 w=5
+item=Book1015 w=5
+item=Book1016 w=5
