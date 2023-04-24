@@ -5,7 +5,7 @@ Contents:
 
 V.1.0.0 (Base):
 
--2 Craftable tents: Tarp Tent and Hunter's Tent. Alternative options to bedrolls.
+-2 Craftable tents: Tarp Tent and Hunter's Tent. Alternative options to bedrolls. (Tents have collisions, so you can crouch inder them. Only active on scene reload)
 
 -3 Tools: Jeremiah's Knife, Scrap Metal Shard (craftable) and Tape Roll.
 
