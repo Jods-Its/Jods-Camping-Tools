@@ -16,3 +16,17 @@ V.1.0.0 (Base):
 -6 Research books: Survival 101 series.
 
 -5 Collectibles maps, scattered around Bear Island.
+
+V.2.0.1 (Contains beta content):
+
+-Improvised striker, a craftable version of the striker.
+
+-Metal lighter (beta), a tool for starting fires and provide light.
+
+-Tanning rack (beta), cure animal skins faster (Wolf, moose, bear and deer).
+
+-Tents now block wind (with collision active).
+
+-Tents models adjusted.
+
+-New spawn points for already existing items.
