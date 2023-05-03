@@ -23,6 +23,6 @@
     "ModEvolveBehaviour" : {
                             "TargetItemName" : "GEAR_TanningRackBP1",
                             "EvolveHours" : 240,
-                            "IndoorsOnly" : true
+                            "IndoorsOnly" : false
                         }						
 }						
