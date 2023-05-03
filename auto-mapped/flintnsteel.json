@@ -1,0 +1,34 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_FlintNSteel",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_FlintNSteelDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvStoneSmall",
+                                "PutBackAudio" : "Play_SndInvStoneSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "Play_SndInvStoneSmall",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "AroundFlint",
+                                "InspectModel" : "InspectFlint"
+                            },
+    "ModFireStarterBehaviour" : {
+                                "DestroyedOnUse" : false,
+                                "NumberOfUses" : 50,
+                                "OnUseSoundEvent" : "Play_SndActionFireStrikerLight1",
+                                "RequiresSunLight" : false,
+                                "RuinedAfterUse" : false,
+                                "SecondsToIgniteTinder" : 6,
+                                "SecondsToIgniteTorch" : 4,
+                                "SuccessModifier" : 20,
+								"DurationOffset" : 0
+                            }						
+}

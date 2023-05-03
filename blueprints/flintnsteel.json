@@ -1,0 +1,16 @@
+{
+    "Name": "FlintNSteel",
+    "RequiredGear": [{"Item": "GEAR_ScrapMetal", "Count": 1}, {"Item": "GEAR_Stone", "Count": 2}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_FlintNSteel",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 20,
+    "CraftingAudio": "Play_RockCache",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

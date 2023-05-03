@@ -1,0 +1,28 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_TanningRackWPS2",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_TanningRackWPS2Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.75,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvLeatherHide",
+                                "PutBackAudio" : "Play_SndInvLeatherHide",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 2.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "UsedRack",
+                                "InspectModel" : "InspectRack"							
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_TanningRackWPS1",
+                            "EvolveHours" : 120,
+                            "IndoorsOnly" : true
+                        }						
+}						

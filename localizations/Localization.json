@@ -15,6 +15,94 @@
                             "English" : "Sharp piece of scrap metal that barely serves as an improvised knife. It's better than nothing.",
 							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada."
     },
+	"GAMEPLAY_MetalLighter" : {
+                            "English" : "Lighter",
+							"Spanish (Spain)" : "Mechero"
+    },
+    "GAMEPLAY_MetalLighterDescription" : {
+                            "English" : "A lighter made out of metal. Perfect for starting fires and provide some light.",
+							"Spanish (Spain)" : "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad."
+    },
+	"GAMEPLAY_FlintNSteel" : {
+                            "English" : "Improvised striker",
+							"Spanish (Spain)" : "Mechero improvisado"
+    },
+    "GAMEPLAY_FlintNSteelDescription" : {
+                            "English" : "A piece of scrap metal and a chunk of flint. One of the oldest way to start fires.",
+							"Spanish (Spain)" : "Una pieza de chatarra y un trozo de pedernal. Una de las formas más antiguas de hacer fuego."
+    },
+	"GAMEPLAY_TanningRack" : {
+                            "English" : "Tanning Rack",
+							"Spanish (Spain)" : "Bastidor para pieles"
+    },
+    "GAMEPLAY_TanningRackDescription" : {
+                            "English" : "Wood, nails and strings that can be assembled to dry pelts faster.",
+							"Spanish (Spain)" : "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente."
+    },
+	"GAMEPLAY_TanningRackBP2" : {
+                            "English" : "Tanning Rack (Bear)",
+							"Spanish (Spain)" : "Bastidor para pieles (Oso)"
+    },
+    "GAMEPLAY_TanningRackBP2Description" : {
+                            "English" : "A tanning rack with a black bear's hide attached.",
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él."
+    },
+	"GAMEPLAY_TanningRackBP1" : {
+                            "English" : "Tanning Rack (Bear)",
+							"Spanish (Spain)" : "Bastidor para pieles (Oso)"
+    },
+    "GAMEPLAY_TanningRackBP1Description" : {
+                            "English" : "A tanning rack with a black bear's hide attached. Completely dried.",
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco."
+    },
+	"GAMEPLAY_TanningRackMP2" : {
+                            "English" : "Tanning Rack (Moose)",
+							"Spanish (Spain)" : "Bastidor para pieles (Alce)"
+    },
+    "GAMEPLAY_TanningRackMP2Description" : {
+                            "English" : "A tanning rack with a moose's hide attached.",
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él."
+    },
+	"GAMEPLAY_TanningRackMP1" : {
+                            "English" : "Tanning Rack (Moose)",
+							"Spanish (Spain)" : "Bastidor para pieles (Alce)"
+    },
+    "GAMEPLAY_TanningRackMP1Description" : {
+                            "English" : "A tanning rack with a moose's hide attached. Completely dried.",
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco."
+    },
+	"GAMEPLAY_TanningRackDPS2" : {
+                            "English" : "Tanning Rack (Deer, single)",
+							"Spanish (Spain)" : "Bastidor para pieles (Ciervo, único)"
+    },
+    "GAMEPLAY_TanningRackDPS2Description" : {
+                            "English" : "A tanning rack with deer's hide attached.",
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él."
+    },
+	"GAMEPLAY_TanningRackDPS1" : {
+                            "English" : "Tanning Rack (Deer, single)",
+							"Spanish (Spain)" : "Bastidor para pieles (Ciervo, único)"
+    },
+    "GAMEPLAY_TanningRackDPS1Description" : {
+                            "English" : "A tanning rack with a deer's hide attached. Completely dried.",
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco."
+    },
+	"GAMEPLAY_TanningRackWPS2" : {
+                            "English" : "Tanning Rack (Wolf, single)",
+							"Spanish (Spain)" : "Bastidor para pieles (Lobo, único)"
+    },
+    "GAMEPLAY_TanningRackWPS2Description" : {
+                            "English" : "A tanning rack with wolf's pelt attached.",
+							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él."
+    },
+	"GAMEPLAY_TanningRackWPS1" : {
+                            "English" : "Tanning Rack (Wolf, single)",
+							"Spanish (Spain)" : "Bastidor para pieles (Lobo, único)"
+    },
+    "GAMEPLAY_TanningRackWPS1Description" : {
+                            "English" : "A tanning rack with a wolf's pelt attached. Completely dried.",
+							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco."
+    },
 	"GAMEPLAY_TarpSheet" : {
 							 "English" : "Tarp Sheet",
 							"Spanish (Spain)" : "Lona"

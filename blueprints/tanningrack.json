@@ -1,0 +1,17 @@
+{
+    "Name": "TanningRack",
+    "RequiredGear": [{"Item": "GEAR_ScrapMetal", "Count": 1},{"Item": "GEAR_GutDried", "Count": 6}, {"Item": "GEAR_Softwood", "Count": 3}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised", "GEAR_KnifeJ", "GEAR_KnifeS"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_TanningRack",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 300,
+    "CraftingAudio": "Play_CraftingWood",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
