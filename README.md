@@ -17,6 +17,7 @@ V.1.0.0 (Base):
 
 -5 Collectibles maps, scattered around Bear Island.
 
+
 V.2.0.1 (Contains beta content):
 
 -Improvised striker, a craftable version of the striker.
