@@ -1,5 +1,6 @@
-# Jods-Camping-Tools
-A mod for TLD that adds tools for outdoors adventures. Open to sugestions!
+# Camping Tools
+
+> A mod for The Long Dark, by Hinterland Studio, that adds a set of tools for outdoors adventures. Open to sugestions!
 
 Contents:
 
