@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/Jods-Its/Jods-Camping-Tools/blob/main/Images/suboM3f.jpg)
 
-> A mod for The Long Dark, by Hinterlan Studio, that adds a set of tools for outdoors adventures. Open to sugestions!
+> A mod for The Long Dark, by Hinterland Studio, that adds a set of tools for outdoors adventures. Open to sugestions!
 
 ## Usage
 
