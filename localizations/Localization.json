@@ -1,234 +1,297 @@
-﻿{
-    "GAMEPLAY_KnifeJ" : {
-                            "English" : "Jeremiah's Knife",
-							"Spanish (Spain)" : "Cuchillo de Jeremiah"
-    },
-    "GAMEPLAY_KnifeJDescription" : {
-                            "English" : "A superior quality hunting knife. Heavier, but sharper. Whoever owned this was someone you wouldn't want to cross.",
-							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte."
-    },
-	"GAMEPLAY_KnifeS" : {
-                            "English" : "Scrap Metal Shard",
-							"Spanish (Spain)" : "Frangmento de chatarra"
-    },
-    "GAMEPLAY_KnifeSDescription" : {
-                            "English" : "Sharp piece of scrap metal that barely serves as an improvised knife. It's better than nothing.",
-							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada."
-    },
-	"GAMEPLAY_MetalLighter" : {
-                            "English" : "Lighter",
-							"Spanish (Spain)" : "Mechero"
-    },
-    "GAMEPLAY_MetalLighterDescription" : {
-                            "English" : "A lighter made out of metal. Perfect for starting fires and provide some light.",
-							"Spanish (Spain)" : "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad."
-    },
-	"GAMEPLAY_FlintNSteel" : {
-                            "English" : "Improvised striker",
-							"Spanish (Spain)" : "Mechero improvisado"
-    },
-    "GAMEPLAY_FlintNSteelDescription" : {
-                            "English" : "A piece of scrap metal and a chunk of flint. One of the oldest way to start fires.",
-							"Spanish (Spain)" : "Una pieza de chatarra y un trozo de pedernal. Una de las formas más antiguas de hacer fuego."
-    },
-	"GAMEPLAY_TanningRack" : {
-                            "English" : "Tanning Rack",
-							"Spanish (Spain)" : "Bastidor para pieles"
-    },
-    "GAMEPLAY_TanningRackDescription" : {
-                            "English" : "Wood, nails and strings that can be assembled to dry pelts faster.",
-							"Spanish (Spain)" : "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente."
-    },
-	"GAMEPLAY_TanningRackBP2" : {
-                            "English" : "Tanning Rack (Bear)",
-							"Spanish (Spain)" : "Bastidor para pieles (Oso)"
-    },
-    "GAMEPLAY_TanningRackBP2Description" : {
-                            "English" : "A tanning rack with a black bear's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él."
-    },
-	"GAMEPLAY_TanningRackBP1" : {
-                            "English" : "Tanning Rack (Bear)",
-							"Spanish (Spain)" : "Bastidor para pieles (Oso)"
-    },
-    "GAMEPLAY_TanningRackBP1Description" : {
-                            "English" : "A tanning rack with a black bear's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco."
-    },
-	"GAMEPLAY_TanningRackMP2" : {
-                            "English" : "Tanning Rack (Moose)",
-							"Spanish (Spain)" : "Bastidor para pieles (Alce)"
-    },
-    "GAMEPLAY_TanningRackMP2Description" : {
-                            "English" : "A tanning rack with a moose's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él."
-    },
-	"GAMEPLAY_TanningRackMP1" : {
-                            "English" : "Tanning Rack (Moose)",
-							"Spanish (Spain)" : "Bastidor para pieles (Alce)"
-    },
-    "GAMEPLAY_TanningRackMP1Description" : {
-                            "English" : "A tanning rack with a moose's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco."
-    },
-	"GAMEPLAY_TanningRackDPS2" : {
-                            "English" : "Tanning Rack (Deer, single)",
-							"Spanish (Spain)" : "Bastidor para pieles (Ciervo, único)"
-    },
-    "GAMEPLAY_TanningRackDPS2Description" : {
-                            "English" : "A tanning rack with deer's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él."
-    },
-	"GAMEPLAY_TanningRackDPS1" : {
-                            "English" : "Tanning Rack (Deer, single)",
-							"Spanish (Spain)" : "Bastidor para pieles (Ciervo, único)"
-    },
-    "GAMEPLAY_TanningRackDPS1Description" : {
-                            "English" : "A tanning rack with a deer's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco."
-    },
-	"GAMEPLAY_TanningRackWPS2" : {
-                            "English" : "Tanning Rack (Wolf, single)",
-							"Spanish (Spain)" : "Bastidor para pieles (Lobo, único)"
-    },
-    "GAMEPLAY_TanningRackWPS2Description" : {
-                            "English" : "A tanning rack with wolf's pelt attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él."
-    },
-	"GAMEPLAY_TanningRackWPS1" : {
-                            "English" : "Tanning Rack (Wolf, single)",
-							"Spanish (Spain)" : "Bastidor para pieles (Lobo, único)"
-    },
-    "GAMEPLAY_TanningRackWPS1Description" : {
-                            "English" : "A tanning rack with a wolf's pelt attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco."
-    },
-	"GAMEPLAY_TarpSheet" : {
-							 "English" : "Tarp Sheet",
-							"Spanish (Spain)" : "Lona"
+{
+	"GAMEPLAY_KnifeJ": {
+		"English": "Jeremiah's Knife",
+		"Spanish (Spain)": "Cuchillo de Jeremiah",
+		"Turkish": "Jeremiah'ın Bıçağı"
 	},
-	"GAMEPLAY_TarpSheetDescription" : {
-							"English" : "A big, sturdy piece of hemp fibers with metal rings attached.",
-							"Spanish (Spain)" : "Una pieza grande y resistente de fibras de cáñamo con anillos de metal unidos."
+	"GAMEPLAY_KnifeJDescription": {
+		"English": "A superior quality hunting knife. Heavier, but sharper. Whoever owned this was someone you wouldn't want to cross.",
+		"Spanish (Spain)": "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte.",
+		"Turkish": "Üstün kaliteli bir av bıçağı. Daha ağır, ama daha keskin. Bunun sahibi her kimse, karşılaşmak istemeyeceğiniz biriydi."
 	},
-	"GAMEPLAY_TapeRoll" : {
-							"English" : "Tape Roll",
-							"Spanish (Spain)" : "Rollo de cinta"
+	"GAMEPLAY_KnifeS": {
+		"English": "Scrap Metal Shard",
+		"Spanish (Spain)": "Frangmento de chatarra",
+		"Turkish": "Hurda Metal Parçası"
 	},
-	"GAMEPLAY_TapeRollDescription" : {
-							"English" : "A roll of industrial-grade duct tape. Useful for patching holes and glue things together.",
-							"Spanish (Spain)" : "Un rollo de cinta adhesiva industrial. Útil para tapar agujeros y pegar cosas."
+	"GAMEPLAY_KnifeSDescription": {
+		"English": "Sharp piece of scrap metal that barely serves as an improvised knife. It's better than nothing.",
+		"Spanish (Spain)": "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada.",
+		"Turkish": "Geçici bir bıçak görevi görebilmek için keskin bir metal parçası. Hiç yoktan iyidir."
 	},
-	"GAMEPLAY_Tent" : {
-							"English" : "Tarp Tent",
-							"Spanish (Spain)" : "Tienda de lona"
+	"GAMEPLAY_MetalLighter": {
+		"English": "Lighter",
+		"Spanish (Spain)": "Mechero",
+		"Turkish": "Çakmak"
 	},
-	"GAMEPLAY_TentDescription" : {
-							"English" : "An improvised tent, made out of tarp sheets, some cloth and spare metal parts, barely held toghether with duct tape. Not the best, but better than sleeping out in the open.",
-							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie."
+	"GAMEPLAY_MetalLighterDescription": {
+		"English": "A lighter made out of metal. Perfect for starting fires and provide some light.",
+		"Spanish (Spain)": "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad.",
+		"Turkish": "Metalden yapılmış bir çakmak. Ateş yakmak ve biraz ışık sağlamak için mükemmeldir."
 	},
-	"GAMEPLAY_SatchelM" : {
-							"English" : "Ranger Satchel",
-							"Spanish (Spain)" : "Bolsa de guardabosques"
+	"GAMEPLAY_TanningRack": {
+		"English": "Tanning Rack",
+		"Spanish (Spain)": "Bastidor para pieles",
+		"Turkish": "Tabaklama Rafı"
 	},
-	"GAMEPLAY_SatchelMDescription" : {
-							"English" : "A well made bag for carrying small items. Durable and useful.",
-							"Spanish (Spain)" : "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil."
+	"GAMEPLAY_TanningRackDescription": {
+		"English": "Wood, nails and strings that can be assembled to dry pelts faster.",
+		"Spanish (Spain)": "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente.",
+		"Turkish": "Postları daha hızlı kurutmak için bir araya getirilebilen ahşap, çivi ve ipler."
 	},
-	"GAMEPLAY_MapML" : {
-							"English" : "Mystery Lake Map",
-							"Spanish (Spain)" : "Mapa del Lago Misterioso"
+	"GAMEPLAY_TanningRackBP2Description": {
+		"English": "A tanning rack with a black bear's hide attached.",
+		"Spanish (Spain)": "Un bastidor para pieles con el pellejo de un oso negro enganchado a él.",
+		"Turkish": "Üzerinde siyah ayı postu olan bir tabaklama rafı."
 	},
-	"GAMEPLAY_MapMLDescription" : {
-							"English" : "A map of Mystery Lake for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa del Lago Misterioso con fines turísticos."
+	"GAMEPLAY_TanningRackBP1Description": {
+		"English": "A tanning rack with a black bear's hide attached. Completely dried.",
+		"Spanish (Spain)": "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco.",
+		"Turkish": "Siyah bir ayı postunun takılı olduğu tabaklama rafı. Tamamen kurumuş."
 	},
-	"GAMEPLAY_MapMT" : {
-							"English" : "Milton Map",
-							"Spanish (Spain)" : "Mapa de Milton"
+	"GAMEPLAY_TanningRackMP2Description": {
+		"English": "A tanning rack with a moose's hide attached.",
+		"Spanish (Spain)": "Un bastidor para pieles con el pellejo de un alce enganchado a él.",
+		"Turkish": "Bir amerikan geyiği derisinin takılı olduğu tabaklama rafı."
 	},
-	"GAMEPLAY_MapMTDescription" : {
-							"English" : "A map of Milton for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de Milton con fines turísticos."
+	"GAMEPLAY_TanningRackMP1Description": {
+		"English": "A tanning rack with a moose's hide attached. Completely dried.",
+		"Spanish (Spain)": "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco.",
+		"Turkish": "Bir amerikan geyiği derisinin takılı olduğu tabaklama rafı. Tamamen kurumuş."
 	},
-	"GAMEPLAY_MapBI" : {
-							"English" : "Bleak Inlet Map",
-							"Spanish (Spain)" : "Mapa de la Ensenada Lóbrega"
+	"GAMEPLAY_TanningRackDPS2Description": {
+		"English": "A tanning rack with deer's hide attached.",
+		"Spanish (Spain)": "Un bastidor para pieles con el pellejo de un ciervo enganchado a él.",
+		"Turkish": "Bir geyik derisinin takılı olduğu tabaklama rafı."
 	},
-	"GAMEPLAY_MapBIDescription" : {
-							"English" : "A map of Bleak Inlet for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de la Ensenada Lóbrega con fines turísticos."
+	"GAMEPLAY_TanningRackDPS1Description": {
+		"English": "A tanning rack with a deer's hide attached. Completely dried.",
+		"Spanish (Spain)": "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco.",
+		"Turkish": "Bir geyik derisinin takılı olduğu tabaklama rafı. Tamamen kurumuş."
 	},
-	"GAMEPLAY_MapPV" : {
-							"English" : "Pleasant Valley Map",
-							"Spanish (Spain)" : "Mapa del Valle Apacible"
+	"GAMEPLAY_TanningRackWPS2Description": {
+		"English": "A tanning rack with wolf's pelt attached.",
+		"Spanish (Spain)": "Un bastidor para pieles con el pelaje de un lobo enganchado a él.",
+		"Turkish": "Bir kurt derisinin takılı olduğu tabaklama rafı."
 	},
-	"GAMEPLAY_MapPVDescription" : {
-							"English" : "A map of Pleasant Valley for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa del Valle Apacible con fines turísticos."
+	"GAMEPLAY_TanningRackWPS1Description": {
+		"English": "A tanning rack with a wolf's pelt attached. Completely dried.",
+		"Spanish (Spain)": "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco.",
+		"Turkish": "Bir kurt derisinin takılı olduğu tabaklama rafı. Tamamen kurumuş."
 	},
-	"GAMEPLAY_MapCH" : {
-							"English" : "Coastal Highway Map",
-							"Spanish (Spain)" : "Mapa de la Autovía Litoral"
+	"GAMEPLAY_Tent": {
+		"English": "Tarp Tent",
+		"Spanish (Spain)": "Tienda de lona",
+		"Turkish": "Muşamba Çadır"
 	},
-	"GAMEPLAY_MapCHDescription" : {
-							"English" : "A map of Coastal Highway for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de la Autovía Litoral con fines turísticos."
-	}	,
-	"GAMEPLAY_TentBear" : {
-							"English" : "Hunter's Tent",
-							"Spanish (Spain)" : "Tienda de cazador"
+	"GAMEPLAY_TentDescription": {
+		"English": "An improvised tent, made out of tarp sheets, some cloth and spare metal parts, barely held toghether with duct tape. Not the best, but better than sleeping out in the open.",
+		"Spanish (Spain)": "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie.",
+		"Turkish": "Biraz kumaş ve yedek metal parçalardan yapılmış el yapımı muşamba, koli bandıyla zar zor bir arada tutulan doğaçlama bir çadır. En iyisi değildi ama açıkta uyumaktan daha iyiydi."
 	},
-	"GAMEPLAY_TentBearDescription" : {
-							"English" : "A heavy and sturdy tent, made out of bear hide and wood. Will hold during blizzards and maybe scare wolves.",
-							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos."
+	"GAMEPLAY_SatchelM": {
+		"English": "Ranger Satchel",
+		"Spanish (Spain)": "Bolsa de guardabosques",
+		"Turkish": "Korucu Çantası"
 	},
-	"GAMEPLAY_Book1011" : {
-							"English" : "Survival 101 Vol.1",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.1"
+	"GAMEPLAY_SatchelMDescription": {
+		"English": "A well made bag for carrying small items. Durable and useful.",
+		"Spanish (Spain)": "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil.",
+		"Turkish": "Küçük eşyaları taşımak için yapılmış kaliteli bir çanta. Dayanıklı ve kullanışlı."
 	},
-	"GAMEPLAY_Book1011Description" : {
-							"English" : "1st volume of a series. This one is called 'Camping Outside'. This book teaches you how to start making lasting fires.",
-							"Spanish (Spain)" : "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos."
+	"GAMEPLAY_MapML": {
+		"English": "Mystery Lake Map",
+		"Spanish (Spain)": "Mapa del Lago Misterioso",
+		"Turkish": "Gizemli Göl Haritası"
 	},
-	"GAMEPLAY_Book1012" : {
-							"English" : "Survival 101 Vol.2",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.2"
+	"GAMEPLAY_MapMLDescription": {
+		"English": "A map of Mystery Lake for touristic purposes.",
+		"Spanish (Spain)": "Un mapa del Lago Misterioso con fines turísticos.",
+		"Turkish": "Turistik amaçlı bir Gizemli Göl haritası."
 	},
-	"GAMEPLAY_Book1012Description" : {
-							"English" : "2nd volume of a series. This one is called 'Cooking Basics'. This book teaches you how to properly prepare food.",
-							"Spanish (Spain)" : "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada."
+	"GAMEPLAY_MapMLDecoDescription": {
+		"English": "'The best place for camping'. \n\nA map of Mystery Lake for touristic purposes. \n\nYou can read on the back: \n\n'The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The area is a popular Summer-time destination with campers and hikers, but the area largely shuts down during the Winter months due to its inaccessibility'.",
+		"Spanish (Spain)": "'El mejor lugar para acampar'. \n\nUn mapa del Lago Misterioso con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La región de Lago Misterioso un valle alpino, con una altitud media de 1200 metros por encima del nivel del mar, llamada así por el gran lago que domina la zona sur-este. El área es un destino popular durante el verano para campistas y senderistas, pero que se cierra en gran medida durante el invierno debido a su innacesibilidad'.",
+		"Turkish": "'Kamp yapmak için en iyi yer'. \n\nTuristik amaçlı bir Gizemli Göl haritası. \n\nArkasınıda okuyabilirsiniz: \n\n'Gizemli Göl bölgesi, deniz seviyesinden ortalama 1200 metre yükseklikte, adını Güneydoğu çeyreğine hakim olan büyük gölden alan bir Alp vadisidir. Bölge yaz aylarında kampçılar ve yürüyüşçüler arasında popüler bir yerdir, ancak erişilemezliği nedeniyle kış aylarında büyük ölçüde kapanır'."
 	},
-	"GAMEPLAY_Book1013" : {
-							"English" : "Survival 101 Vol.3",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.3"
+	"GAMEPLAY_MapMT": {
+		"English": "Milton Map",
+		"Spanish (Spain)": "Mapa de Milton",
+		"Turkish": "Dağ Kasabası Haritası"
 	},
-	"GAMEPLAY_Book1013Description" : {
-							"English" : "3rd volume of a series. This one is called 'Clothing Misfortune'. This book teaches you how to mend worn out clothes.",
-							"Spanish (Spain)" : "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada."
+	"GAMEPLAY_MapMTDescription": {
+		"English": "A map of Milton for touristic purposes.",
+		"Spanish (Spain)": "Un mapa de Milton con fines turísticos.",
+		"Turkish": "Turistik amaçlı bir Dağ Kasabası haritası."
 	},
-	"GAMEPLAY_Book1014" : {
-							"English" : "Survival 101 Vol.4",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.4"
+	"GAMEPLAY_MapMTDecoDescription": {
+		"English": "'Meet the locals'. \n\nA map of Milton for touristic purposes. \n\nYou can read on the back: \n\n'Founded in 1911 during the early rush to mine coal in the surrounding mountains, Milton went through a boom/bust cycle throughout the 1900s, at one point peaking at about 1000 residents. Its location, about halfway between Port Mary and the interior mountains, gave it a natural advantage as a convenient stopping off point for fuel and supplies'.",
+		"Spanish (Spain)": "'Conoce a los lugareños'. \n\nUn mapa de Milton con fines turísticos. \n\nPuedes leer en el reverso: \n\n'Fundado en 1911 durante la fiebre por minar carbón en las montañas que lo rodean, Milton pasó por un ciclo de boom y fracaso durante los 1900, en algún punto llegando a los 1000 habitantes. Su localización, a mitad de camino entre Puerto Mary y las montañas interiores, le daba una ventaja natural como una parada conveniente para repostar combustible y suministros'.",
+		"Turkish": "'Yerel halkla tanışın'. \n\nTuristik amaçlı bir Dağ Kasabası. \n\nArkasınıda okuyabilirsiniz: \n\n'1911 yılında çevredeki dağlarda kömür madeni çıkarma çalışmaları sırasında kurulan Milton, 1900'lü yıllar boyunca bir patlama/çöküş döngüsü yaşadı ve bir noktada yaklaşık 1000 nüfusa ulaştı. Port Mary ile iç dağlar arasındaki konumu, yakıt ve malzeme için uygun bir durak noktası olarak doğal bir avantaj sağlamıştır'."
 	},
-	"GAMEPLAY_Book1014Description" : {
-							"English" : "4th volume of a series. This one is called 'Mind the Hook'. This book teaches you how to fish in frozen landscapes.",
-							"Spanish (Spain)" : "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados."
+	"GAMEPLAY_MapBI": {
+		"English": "Bleak Inlet Map",
+		"Spanish (Spain)": "Mapa de la Ensenada Lóbrega",
+		"Turkish": "Kasvetli Körfez Haritası"
 	},
-	"GAMEPLAY_Book1015" : {
-							"English" : "Survival 101 Vol.5",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.5"
+	"GAMEPLAY_MapBIDescription": {
+		"English": "A map of Bleak Inlet for touristic purposes.",
+		"Spanish (Spain)": "Un mapa de la Ensenada Lóbrega con fines turísticos.",
+		"Turkish": "Turistik amaçlı bir Kasvetli Körfez Haritası."
 	},
-	"GAMEPLAY_Book1015Description" : {
-							"English" : "5th volume of a series. This one is called 'Stalking Prey'. This book teaches you how to hunt with a bow.",
-							"Spanish (Spain)" : "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco."
+	"GAMEPLAY_MapBIDecoDescription": {
+		"English": "'Heart of the industry'. \n\nA map of Bleak Inlet for touristic purposes. \n\nYou can read on the back: \n\n'Bleak Inlet was one of the most important economic hubs Great Bear had in the late 90's, with the most prominent source of income being the 'Last Resort' cannery and export docks, home for both fishers and factory workers. The name of the region, Bleak Inlet, is from a post-collapse origin, as this place was completely abandoned shortly after'.",
+		"Spanish (Spain)": "'Corazón de la industria'. \n\nUn mapa de la Ensenada Lóbrega con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Ensenada Lóbrega fue uno de los centros económicos más importantes de Gran Oso a finales de los 90, siendo la fuente más prominente de ingresos la fábrica de conservas y muelles de exportación 'Último Recurso', hogar tanto para pescadores como trabajadores de fábrica. El nombre de la región es de origen post-colapso, ya que este lugar fue abandonado poco después'.",
+		"Turkish": "'Endüstrinin kalbi'. \n\nTuristik amaçlı bir Kasvetli Körfez Haritası. \n\nArkasınıda okuyabilirsiniz: \n\n'Kasvetli Körfezin, 90'lı yılların sonunda Great Bear'ın sahip olduğu en önemli ekonomik merkezlerden biriydi ve en önemli gelir kaynağı hem balıkçılara hem de fabrika işçilerine ev sahipliği yapan 'Last Resort' konserve fabrikası ve ihracat rıhtımlarıydı. Bölgenin adı olan Bleak Inlet, çöküş sonrası bir kökene sahiptir, çünkü burası kısa bir süre sonra tamamen terk edilmiştir'."
 	},
-	"GAMEPLAY_Book1016" : {
-							"English" : "Survival 101 Vol.6",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.6"
+	"GAMEPLAY_MapPV": {
+		"English": "Pleasant Valley Map",
+		"Spanish (Spain)": "Mapa del Valle Apacible",
+		"Turkish": "Tatlı Vadi Haritası"
 	},
-	"GAMEPLAY_Book1016Description" : {
-							"English" : "6th volume of a series. This one is called 'Handling Carcasses'. This book teaches you how to properly harvest prey and get the best out of it.",
-							"Spanish (Spain)" : "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas."
+	"GAMEPLAY_MapPVDescription": {
+		"English": "A map of Pleasant Valley for touristic purposes.",
+		"Spanish (Spain)": "Un mapa del Valle Apacible con fines turísticos.",
+		"Turkish": "Turistik amaçlı bir Tatlı Vadi Haritası."
+	},
+	"GAMEPLAY_MapPVDecoDescription": {
+		"English": "'Food for the island'. \n\nA map of Pleasant Valley for touristic purposes. \n\nYou can read on the back: \n\n'Pleasant Valley’s harsh and remote location, even for Great Bear Island, has shaped much of its history and the character of its residents. The Valley’s geography -- wide, open fields ringed by jagged mountain ranges -- creates unusually strong weather events. Locals have long told of multi-day storms, high winds, and a deep, endless cold during the Winter months'.",
+		"Spanish (Spain)": "'Comida para la isla'.\n\nUn mapa del Valle Apacible con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La dura y remota localización del Valle Apacible, incluso para la isla de Gran Oso, ha moldeado su historia y el carácter de sus habitantes. La geografía del valle -- amplios y abiertos campos anillados por puntiagudas cadenas montañosas -- crea a menudo fuertes temporales. Los lugareños cuentan sobre tormentas que duran días, fuertes vientos, y de un profundo e interminable frío durante los meses de invierno'.",
+		"Turkish": "'Ada için yiyecek'. \n\nTuristik amaçlı bir Tatlı Vadi Haritası. \nArkasınıda okuyabilirsiniz: \n\n'Tatlı Vadi'nin Büyük Ayı Adası için bile sert ve uzak konumu, tarihinin ve sakinlerinin karakterinin çoğunu şekillendirmiştir. Vadinin coğrafyası - pürüzlü dağ sıralarıyla çevrili geniş, açık alanlar - alışılmadık derecede güçlü hava olayları yaratır. Bölge sakinleri uzun zamandır kış aylarında günlerce süren fırtınalar, şiddetli rüzgarlar ve derin, sonsuz bir soğuktan bahsetmektedir."
+	},
+	"GAMEPLAY_MapCH": {
+		"English": "Coastal Highway Map",
+		"Spanish (Spain)": "Mapa de la Autovía Litoral",
+		"Turkish": "Sahil Yolu Haritası"
+	},
+	"GAMEPLAY_MapCHDescription": {
+		"English": "A map of Coastal Highway for touristic purposes.",
+		"Spanish (Spain)": "Un mapa de la Autovía Litoral con fines turísticos.",
+		"Turkish": "Turistik amaçlı bir Sahil Yolu haritası."
+	},
+	"GAMEPLAY_MapCHDecoDescription": {
+		"English": "'Enjoy the views'. \n\nA map of Coastal Highway for touristic purposes. \n\nYou can read on the back: \n\n'The Great Bear Highway, also known as Highway 15, was built around the early 2000s as a way to facilitate transportation of goods from the mainland, as making easier going on a trip to the island. The construction of the coastal highway was heavily criticized by both islanders and a group of activist called 'The Forest Talkers', mostly because it caused the decline of the regional nature and economic activities from isolated towns'.",
+		"Spanish (Spain)": "'Disfruta las vistas'. \n\nUn mapa de la Autovía Litoral con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Autovía de Gran Oso, también conocida como Autovía 15, fue construida sobre principios de los 2000 como forma de facilitar el transporte de mercancías desde el continente, así cómo de hacer más fácil los viajes a la isla. La construcción de la autovía costera fue fuertemente criticada tanto por los isleños como por un grupo activista llamado 'Los Oradores del Bosque', principalmente porque causaba la disminución de la naturraleza regional y de las actividades económicas de pueblos remotos'.",
+		"Turkish": "'Manzaranın tadını çıkarın'. \n\nTuristik amaçlı bir Sahil Yolu haritası. \n\nArkasınıda okuyabilirsiniz: \n\n'15. Otoyol olarak da bilinen Büyük Ayı Otoyolu, 2000'li yılların başında anakaradan mal taşımacılığını kolaylaştırmak ve adaya seyahat etmeyi kolaylaştırmak amacıyla inşa edilmiştir. Kıyı otoyolunun inşası hem ada sakinleri hem de 'Orman Konuşmacıları' olarak adlandırılan bir grup aktivist tarafından, çoğunlukla bölgesel doğanın ve izole kasabalardaki ekonomik faaliyetlerin azalmasına neden olduğu gerekçesiyle ağır bir şekilde eleştirildi."
+	},
+	"GAMEPLAY_TentBear": {
+		"English": "Hunter's Tent",
+		"Spanish (Spain)": "Tienda de cazador",
+		"Turkish": "Avcı Çadırı"
+	},
+	"GAMEPLAY_TentBearDescription": {
+		"English": "A heavy and sturdy tent, made out of bear hide and wood. Will hold during blizzards and maybe scare wolves.",
+		"Spanish (Spain)": "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos.",
+		"Turkish": "Ayı postu ve tahtadan yapılmış ağır ve sağlam bir çadır. Kar fırtınası sırasında dayanır ve belki kurtları korkutur."
+	},
+	"GAMEPLAY_Book1011": {
+		"English": "Survival 101 Vol.1",
+		"Spanish (Spain)": "Supervivencia para principiantes Vol.1",
+		"Turkish": "Hayatta Kalma 101 Cilt 1"
+	},
+	"GAMEPLAY_Book1011Description": {
+		"English": "1st volume of a series. This one is called 'Camping Outside'. This book teaches you how to start making lasting fires.",
+		"Spanish (Spain)": "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos.",
+		"Turkish": "Bir serinin 1. cildi. Bu kitabın adı 'Dışarıda Kamp'. Bu kitap size nasıl kalıcı ateşler yakacağınızı öğretiyor."
+	},
+	"GAMEPLAY_Book1012": {
+		"English": "Survival 101 Vol.2",
+		"Spanish (Spain)": "Supervivencia para principiantes Vol.2",
+		"Turkish": "Hayatta Kalma 101 Cilt 2"
+	},
+	"GAMEPLAY_Book1012Description": {
+		"English": "2nd volume of a series. This one is called 'Cooking Basics'. This book teaches you how to properly prepare food.",
+		"Spanish (Spain)": "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada.",
+		"Turkish": "Bir serinin 2. cildi. Bu kitabın adı 'Yemek Pişirmenin Temelleri'. Bu kitap size yiyecekleri nasıl düzgün bir şekilde hazırlayacağınızı öğretiyor."
+	},
+	"GAMEPLAY_Book1013": {
+		"English": "Survival 101 Vol.3",
+		"Spanish (Spain)": "Supervivencia para principiantes Vol.3",
+		"Turkish": "Hayatta Kalma 101 Cilt 3"
+	},
+	"GAMEPLAY_Book1013Description": {
+		"English": "3rd volume of a series. This one is called 'Clothing Misfortune'. This book teaches you how to mend worn out clothes.",
+		"Spanish (Spain)": "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada.",
+		"Turkish": "Bir serinin 3. cildi. Bu kitabın adı 'Giyim Talihsizliği'. Bu kitap size yıpranmış giysilerin nasıl onarılacağını öğretiyor."
+	},
+	"GAMEPLAY_Book1014": {
+		"English": "Survival 101 Vol.4",
+		"Spanish (Spain)": "Supervivencia para principiantes Vol.4",
+		"Turkish": "Hayatta Kalma 101 Cilt 4"
+	},
+	"GAMEPLAY_Book1014Description": {
+		"English": "4th volume of a series. This one is called 'Mind the Hook'. This book teaches you how to fish in frozen landscapes.",
+		"Spanish (Spain)": "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados.",
+		"Turkish": "Bir serinin 4. cildi. Bu kitabın adı 'Oltaya Dikkat'. Bu kitap size donmuş manzaralarda nasıl balık tutulacağını öğretiyor."
+	},
+	"GAMEPLAY_Book1015": {
+		"English": "Survival 101 Vol.5",
+		"Spanish (Spain)": "Supervivencia para principiantes Vol.5",
+		"Turkish": "Hayatta Kalma 101 Cilt 5"
+	},
+	"GAMEPLAY_Book1015Description": {
+		"English": "5th volume of a series. This one is called 'Stalking Prey'. This book teaches you how to hunt with a bow.",
+		"Spanish (Spain)": "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco.",
+		"Turkish": "Bir serinin 5. cildi. Bu kitabın adı 'Avı Takip Etmek'. Bu kitap size yay ile nasıl avlanacağınızı öğretiyor."
+	},
+	"GAMEPLAY_Book1016": {
+		"English": "Survival 101 Vol.6",
+		"Spanish (Spain)": "Supervivencia para principiantes Vol.6",
+		"Turkish": "Hayatta Kalma 101 Cilt 6"
+	},
+	"GAMEPLAY_Book1016Description": {
+		"English": "6th volume of a series. This one is called 'Handling Carcasses'. This book teaches you how to properly harvest prey and get the best out of it.",
+		"Spanish (Spain)": "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas.",
+		"Turkish": "Bir serinin 6. cildi. Bu kitabın adı 'Karkasların İşlenmesi'. Bu kitap size avınızı nasıl düzgün bir şekilde hasat edeceğinizi ve ondan en iyi şekilde nasıl yararlanacağınızı öğretiyor."
+	},
+	"GAMEPLAY_CT_MapLabel": {
+		"English": "Survey",
+		"Spanish (Spain)": "Investigar",
+		"Turkish": "Araştır"
+	},
+	"GAMEPLAY_CT_MapProgressBar": {
+		"English": "Surveying...",
+		"Spanish (Spain)": "Investigando...",
+		"Turkish": "Araştırılıyor"
+	},
+	"GAMEPLAY_CT_InteriorError": {
+		"English": "You can't survey a map on interiors.",
+		"Spanish (Spain)": "No puedes investigar un mapa en interiores.",
+		"Turkish": "İç mekanlarda harita araştırması yapamazsınız."
+	},
+	"GAMEPLAY_CT_RegionError": {
+		"English": "You can't survey a map without references.",
+		"Spanish (Spain)": "No puedes investigar un mapa sin referencias.",
+		"Turkish": "Referanslar olmadan bir haritayı inceleyemezsiniz."
+	},
+	"GAMEPLAY_CT_TRackButton": {
+		"English": "Assemble",
+		"Spanish (Spain)": "Montar",
+		"Turkish": "Montaj"
+	},
+	"GAMEPLAY_CT_TRackDeerS": {
+		"English": "Deer Hide (Single)",
+		"Spanish (Spain)": "Piel de ciervo (Unidad)",
+		"Turkish": "Geyik Postu (Tek)"
+	},
+	"GAMEPLAY_CT_TRackWolfS": {
+		"English": "Wolf Pelt (Single)",
+		"Spanish (Spain)": "Piel de lobo (Unidad)",
+		"Turkish": "Kurt Postu (Tek)"
+	},
+	"GAMEPLAY_CT_TRackBear": {
+		"English": "Bear Hide",
+		"Spanish (Spain)": "Piel de oso",
+		"Turkish": "Ayı Postu"
+	},
+	"GAMEPLAY_CT_TRackMoose": {
+		"English": "Moose Hide",
+		"Spanish (Spain)": "Piel de alce",
+		"Turkish": "Amerikan Geyiği Postu"
+	},
+	"GAMEPLAY_CT_PlaceLabel": {
+		"English": "Place",
+		"Spanish (Spain)": "Colocar",
+		"Turkish": "Yer"
 	}
 }
