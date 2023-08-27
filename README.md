@@ -35,7 +35,7 @@
 
 - 6 Research books: Survival 101 series.
 
-- 5 maps, scattered around Bear Island. You can survey them to reveal the whole map of the region.
+- 5 maps, scattered around Bear Island. You can survey them to reveal the whole map of the region. They're more common in places you least expect them to. Look carefully. Once surveyed, they go to the collectibles tab, with some information about the region.
 
 - Metal lighter (beta), a tool for starting fires and provide light.
 
