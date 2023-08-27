@@ -1,14 +1,14 @@
 # Camping Tools
 
-![Image](https://github.com/Jods-Its/Jods-Camping-Tools/blob/main/Images/suboM3f.jpg)
+![Image](https://github.com/Jods-Its/Jods-Camping-Tools/blob/main/Images/s4QXeLl.jpg)
 
 > A mod for The Long Dark, by Hinterland Studio, that adds a set of tools for outdoors adventures. Open to sugestions!
 
 ## Usage
 
-![Image](https://github.com/Jods-Its/Jods-Camping-Tools/blob/main/Images/screen_52f7befd-fea8-463b-bbfd-15e46d668dfe_hi.png) 
+![Image](https://github.com/Jods-Its/Jods-Camping-Tools/blob/main/Images/screen_8744cc7c-5a17-454c-8f42-7e5aff52aacf_hi.png) 
 
-> Find materials, tools and books across Great Bear. Craft your own improvised tools.
+> Find tools, books and maps across Great Bear.
 
 ![Image](https://github.com/Jods-Its/Jods-Camping-Tools/blob/main/Images/screen_041562b7-4600-4306-b873-4e1fbcb5b953_hi.png)
 
@@ -16,37 +16,30 @@
 
 ![Image](https://github.com/Jods-Its/Jods-Camping-Tools/blob/main/Images/screen_8c652d5a-4861-49b4-a407-add56cec5ca2_hi.png)
 
-> Use tanning racks (beta feature) to dry pelts faster!
+> Use tanning racks to dry pelts faster, even outdoors!
 
 ## Installation
 
- * Download the latest .modcomponent file in [releases](https://github.com/Jods-Its/Jods-Camping-Tools/releases), drop in mods folder and enjoy!
+ * Download the latest .zip file in [releases](https://github.com/Jods-Its/Jods-Camping-Tools/releases), unzip, drop contents in mods folder and enjoy!
  * Requires [ModComponent](https://github.com/dommrogers/ModComponent) and all its dependencies to work.
+ * Requires [ExamineActionsAPI](https://github.com/No3371/TLD-ExamineActionsAPI) for the tanning rack to work.
+ * Requires [Modders' Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox) to get the materials and tools for crafting.
 
 ## Contents
 
-**V.1.0.0 (Base):**
+- 2 Craftable tents: Tarp Tent and Hunter's Tent. Upgrades to bedrolls. They have collision (on scene reload) and can block wind.
 
-- 2 Craftable tents: Tarp Tent and Hunter's Tent. Alternative options to bedrolls. They have collision (on scene reload) and can block wind.
-
-- 3 Tools: Jeremiah's Knife, Scrap Metal Shard (craftable) and Tape Roll.
-
-- 1 Material: Tarp Sheet.
+- 2 knives from Wintermute: Jeremiah's Knife and Scrap Metal Shard (craftable).
 
 - 1 Clothing item: Ranger Satchel. Adds +2kg bonus.
 
 - 6 Research books: Survival 101 series.
 
-- 5 Collectibles maps, scattered around Bear Island.
-
-
-**V.2.0.1 (Contains beta content):**
-
-- Improvised striker, a craftable version of the striker.
+- 5 maps, scattered around Bear Island. You can survey them to reveal the whole map of the region.
 
 - Metal lighter (beta), a tool for starting fires and provide light.
 
-- Tanning rack (beta), cure animal skins faster (Wolf, moose, bear and deer).
+- Tanning rack, cure animal skins faster (Wolf, moose, bear and deer).
 
 ## Troubleshooting
 
