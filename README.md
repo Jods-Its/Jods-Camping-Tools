@@ -41,6 +41,8 @@
 
 - Tanning rack, cure animal skins faster (Wolf, moose, bear and deer).
 
+Complete item list [here](https://github.com/TLD-Mods/Data/wiki/Modded-gear-items#camping-tools).
+
 ## Troubleshooting
 
 For any doubt, question or technical support you might need, contact me throught the [TLD Modding](https://discord.com/invite/nb2jQez) Discord server and place a message at #jods.
