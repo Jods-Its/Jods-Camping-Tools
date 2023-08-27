@@ -1,0 +1,16 @@
+{
+    "Name": "KnifeS",
+    "RequiredGear": [{"Item": "GEAR_Cloth", "Count": 1},{"Item": "GEAR_ScrapMetal", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_KnifeScrapMetal",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "Play_RepairingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

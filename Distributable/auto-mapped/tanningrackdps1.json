@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_TanningRack",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_TanningRackDPS1Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.5,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvLeatherHide",
+                                "PutBackAudio" : "Play_SndInvLeatherHide",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 3.0,
+                                "InspectAngles" : [-135, -90, 90],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [0.8, 0.8, 0.8],
+                                "NormalModel" : "UsedRack",
+                                "InspectModel" : "InspectRack"							
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingLeather",
+                                "Minutes" : 15,
+                                "YieldCounts" : [1,1],
+                                "YieldNames" : ["GEAR_TanningRack", "GEAR_LeatherHideDried"],
+                                "RequiredToolNames" : []
+                            }							
+}						

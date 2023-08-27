@@ -1,0 +1,27 @@
+{
+    "ModCollectibleComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_MapPV",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_MapPVDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvPaper",
+                                "PutBackAudio" : "Play_SndInvPaper",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.6,
+                                "InspectAngles" : [0, 90, -90],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+								
+								"HudMessageLocalizationId" : "GAMEPLAY_MapPV",
+                                "NarrativeTextLocalizationId" : "GAMEPLAY_MapPVDecoDescription",
+                                "TextAlignment" : "Center"
+                            }
+}

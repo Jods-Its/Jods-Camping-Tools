@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_TanningRack",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_TanningRackDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvWoodFirewood",
+                                "PutBackAudio" : "Play_SndInvWoodFirewood",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 3.0,
+                                "InspectAngles" : [-135, -90, 90],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [0.8, 0.8, 0.8],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+}						

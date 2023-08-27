@@ -1,0 +1,16 @@
+{
+    "Name": "TentTarp",
+    "RequiredGear": [{"Item": "GEAR_TarpSheet", "Count": 3},{"Item": "GEAR_ScrapMetal", "Count": 2},{"Item": "GEAR_NutsNBolts", "Count": 2},{"Item": "GEAR_BedRoll", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_TapeRoll",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Tent",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "Play_RepairingNylonCloth",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

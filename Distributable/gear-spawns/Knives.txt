@@ -1,0 +1,9 @@
+scene=SafeHouseA
+item=GEAR_JeremiahKnife p=-2.0340,0.9408,6.5671 r=90.0000,269.5673,0.0000 c=100
+scene=DamTransitionZone
+item=GEAR_KnifeScrapMetal p=-54.1722,-2.8029,-12.9933 r=284.9947,343.5095,180.0000 c=80
+	
+loottable=LootTableBackPack
+item= KnifeScrapMetal w=3
+loottable=LootTableHumanCorpse
+item= KnifeScrapMetal w=5

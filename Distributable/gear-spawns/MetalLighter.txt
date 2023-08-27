@@ -1,0 +1,94 @@
+scene=AirfieldRegion
+item=GEAR_MetalLighter p=328.6421,209.6438,1013.9587 r=-0.0000,20.8515,-0.0000 c=50
+item=GEAR_MetalLighter p=-733.2775,295.6897,1134.2656 r=0.0000,299.5955,0.0000 c=50
+item=GEAR_MetalLighter p=91.6134,161.5584,-452.6323 r=0.0000,272.4655,0.0000 c=50
+item=GEAR_MetalLighter p=125.8696,161.4894,-499.8843 r=0.0000,323.7302,0.0000 c=50
+
+scene=AFHangar
+item=GEAR_MetalLighter p=-22.1184,4.6998,4.9749 r=359.0580,305.3854,1.3264 c=50
+item=GEAR_MetalLighter p=-23.7477,4.8795,-19.6336 r=-0.0000,55.9337,-0.0000 c=50
+
+scene=CampOffice
+item=GEAR_MetalLighter p=3.4443,1.1746,0.2943 r=-0.0000,164.4467,-0.0000 c=50
+
+scene=LakeRegion
+item=GEAR_MetalLighter p=790.1353,214.1378,969.4157 r=0.0000,231.4882,0.0000 c=50
+item=GEAR_MetalLighter p=1275.6884,119.8149,650.6650 r=0.2849,256.4766,9.9351 c=50
+
+scene=LakeCabinA
+item=GEAR_MetalLighter p=2.2055,1.1470,0.5472 r=-0.0000,22.1168,-0.0000 c=50
+scene=LakeCabinB
+item=GEAR_MetalLighter p=1.2867,1.7220,-3.2460 r=0.5773,52.3672,359.5510 c=50
+scene=LakeCabinC
+item=GEAR_MetalLighter p=-2.1679,1.4290,-0.5301 r=-0.0000,138.5374,-0.0000 c=50
+scene=LakeCabinD
+item=GEAR_MetalLighter p=-0.6333,0.8142,2.8396 r=359.4429,303.0235,0.1447 c=50
+scene=LakeCabinE
+item=GEAR_MetalLighter p=2.2210,1.1504,2.4476 r=0.0000,341.3395,0.0000 c=50
+scene=LakeCabinF
+item=GEAR_MetalLighter p=2.2386,1.4545,0.1620 r=-0.0000,24.8320,-0.0000 c=50
+
+scene=CoastalHouseA
+item=GEAR_MetalLighter p=5.4125,0.8736,-0.3137 r=-0.0000,74.6481,-0.0000 c=50
+scene=CoastalHouseB
+item=GEAR_MetalLighter p=2.1769,0.6515,6.8145 r=0.0000,214.2662,0.0000 c=50
+scene=CoastalHouseC
+item=GEAR_MetalLighter p=3.3388,1.0752,3.4387 r=0.0000,302.2028,0.0000 c=50
+scene=CoastalHouseD
+item=GEAR_MetalLighter p=-8.1788,0.5557,-2.2153 r=-0.0000,131.7367,-0.0000 c=50
+scene=CoastalHouseE
+item=GEAR_MetalLighter p=-3.5867,1.2666,3.3522 r=0.0000,233.3922,0.0000 c=50
+scene=CoastalHouseF
+item=GEAR_MetalLighter p=0.1636,1.1108,-2.8641 r=-0.0000,66.5445,-0.0000 c=50
+
+scene=MiltonHouseA
+item=GEAR_MetalLighter p=-1.0844,0.0027,3.5420 r=0.0000,275.2732,0.0000 c=50
+scene=MiltonHouseC
+item=GEAR_MetalLighter p=-0.6417,0.8736,-0.4009 r=-0.0000,15.1407,-0.0000 c=50
+scene=MiltonHouseD
+item=GEAR_MetalLighter p=-9.5919,0.8736,2.1101 r=0.0000,284.7413,0.0000 c=50
+scene=MiltonHouseF1
+item=GEAR_MetalLighter p=1.8148,3.3170,-1.3258 r=0.0000,241.1825,0.0000 c=50
+scene=MiltonHouseF2
+item=GEAR_MetalLighter p=-3.7484,0.5738,0.0092 r=-0.0000,48.0858,-0.0000 c=50
+scene=MiltonHouseH3
+item=GEAR_MetalLighter p=-1.0729,-0.1973,-2.7114 r=-0.0000,64.1415,-0.0000 c=50
+
+scene=WoodCabinA
+item=GEAR_MetalLighter p=-1.5998,0.9086,1.2025 r=0.0000,209.8522,0.0000 c=50
+scene=WoodCabinB
+item=GEAR_MetalLighter p=-1.5656,0.9086,-2.4378 r=0.0000,204.8252,0.0000 c=50
+scene=WoodCabinC
+item=GEAR_MetalLighter p=1.5599,1.0036,-1.3059 r=0.0000,335.4789,0.0000 c=50
+scene=AshCabinF
+item=GEAR_MetalLighter p=1.6918,0.8130,1.0266 r=359.4248,49.5487,359.9803 c=80
+
+scene=PrepperCacheA
+item=GEAR_MetalLighter p=-3.0939,1.0205,0.6682 r=0.0000,222.1238,0.0000 c=100
+scene=PrepperCacheB
+item=GEAR_MetalLighter p=0.9495,0.9773,-0.9300 r=-0.0000,50.7951,-0.0000 c=100
+scene=PrepperCacheC
+item=GEAR_MetalLighter p=-2.7183,1.0245,1.3503 r=0.0000,214.2415,0.0000 c=100
+scene=PrepperCacheD
+item=GEAR_MetalLighter p=-3.1318,1.1171,1.5764 r=-0.0000,101.3315,-0.0000 c=100
+scene=PrepperCacheE
+item=GEAR_MetalLighter p=2.2181,1.0245,1.3451 r=0.0000,227.5074,0.0000 c=100
+scene=PrepperCacheF
+item=GEAR_MetalLighter p=1.0022,-0.5119,0.2777 r=-0.0000,117.3151,-0.0000 c=100
+
+scene=RadioControlHut
+item=GEAR_MetalLighter p=-0.1166,1.0326,1.5670 r=-0.0000,156.3932,-0.0000 c=50
+scene=RadioControlHutB
+item=GEAR_MetalLighter p=-4.5693,0.6386,2.7243 r=358.0850,21.4559,2.5566 c=50
+
+scene=GreyMothersHouseA
+item=GEAR_MetalLighter p=6.2665,4.6166,-2.0134 r=-0.0000,30.5534,-0.0000 c=80
+scene=CommunityHallA
+item=GEAR_MetalLighter p=1.9405,1.0095,3.3791 r=0.0000,331.4060,0.0000 c=80
+
+loottable=LootTableVehicleGloveBox
+item= MetalLighter w=4
+loottable=LootTableBackPack
+item=MetalLighter w=3
+loottable=LootTableHumanCorpse
+item=MetalLighter w=4

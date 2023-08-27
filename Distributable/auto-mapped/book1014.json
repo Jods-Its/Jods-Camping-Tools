@@ -1,0 +1,36 @@
+{
+    "ModResearchComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_Book1014",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_Book1014Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.3,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Firestarting",
+                                "PickUpAudio" : "Play_SndInvBookHardcover",
+                                "PutBackAudio" : "Play_SndInvBookHardcover",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.8,
+                                "InspectAngles" : [-90, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "SkillType" : "IceFishing",
+                                "TimeRequirementHours" : 3,
+                                "SkillPoints" : 5,
+                                "NoBenefitAtSkillLevel" : 3,
+                                "ReadAudio" : "Play_ResearchBook"
+                            },
+	"ModBurnableBehaviour": {
+                                "BurningMinutes" : 20,
+                                "BurningMinutesBeforeAllowedToAdd" : 0,
+                                "SuccessModifier" : 35,
+                                "TempIncrease" : 2,
+                                "DurationOffset" : 0
+                            }
+}

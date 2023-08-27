@@ -1,0 +1,17 @@
+{
+    "Name": "TentHide",
+    "RequiredGear": [{"Item": "GEAR_BearHideDried", "Count": 2},{"Item": "GEAR_GutDried", "Count": 8}, {"Item": "GEAR_Softwood", "Count": 6}, {"Item": "GEAR_BearSkinBedRoll", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised", "GEAR_JeremiahKnife", "GEAR_KnifeScrapMetal"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_TentBear",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 840,
+    "CraftingAudio": "Play_CraftingLeatherHide",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
