@@ -1,4 +1,0 @@
-loottable=LootTableBackPack
-item=KnifeS w=3
-loottable=LootTableHumanCorpse
-item=KnifeS w=4

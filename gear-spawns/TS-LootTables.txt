@@ -1,6 +1,0 @@
-loottable=LootTableToolChest
-item=TarpSheet w=6
-loottable=LootTableToolChestDrawer
-item=TarpSheet w=2
-loottable=LootTableWorkbench
-item=TarpSheet w=3

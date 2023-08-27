@@ -1,9 +1,0 @@
-scene=LakeRegion
-item=GEAR_SatchelM p=787.8067,213.4202,965.8794 r=359.7358,342.7603,359.5884 c=60
-item=GEAR_SatchelM p=431.2743,154.9845,995.3851 r=4.0760,132.5701,7.3878 c=30
-
-scene=CoastalRegion
-item=GEAR_SatchelM p=358.2206,203.2287,1155.8805 r=-0.0000,6.8630,-0.0000 c=30
-
-scene=CanneryRegion
-item=GEAR_SatchelM p=299.0051,239.0390,348.0269 r=0.0000,298.5535,0.0000 c=60
