@@ -1,238 +1,297 @@
 ﻿{
     "GAMEPLAY_KnifeJ" : {
                             "English" : "Jeremiah's Knife",
-							"Spanish (Spain)" : "Cuchillo de Jeremiah"
+							"Spanish (Spain)" : "Cuchillo de Jeremiah",
+							"Russian" : "Нож Джереми"
     },
     "GAMEPLAY_KnifeJDescription" : {
                             "English" : "A superior quality hunting knife. Heavier, but sharper. Whoever owned this was someone you wouldn't want to cross.",
-							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte."
+							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte.",
+							"Russian" : "Охотничий нож превосходного качества. Тяжелее, но острее. Кому бы он не пренадлежал, вам бы не хотелось перейти ему дорогу."
     },
 	"GAMEPLAY_KnifeS" : {
                             "English" : "Scrap Metal Shard",
-							"Spanish (Spain)" : "Frangmento de chatarra"
+							"Spanish (Spain)" : "Frangmento de chatarra",
+							"Russian" : "Металлический обломок"
     },
     "GAMEPLAY_KnifeSDescription" : {
                             "English" : "Sharp piece of scrap metal that barely serves as an improvised knife. It's better than nothing.",
-							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada."
+							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada.",
+							"Russian" : "Острый металлический обломок. Едва ли сойдёт за импровизированный нож, но лучше, чем ничего."
     },
 	"GAMEPLAY_MetalLighter" : {
                             "English" : "Lighter",
-							"Spanish (Spain)" : "Mechero"
+							"Spanish (Spain)" : "Mechero",
+							"Russian" : "Зажигалка"
     },
     "GAMEPLAY_MetalLighterDescription" : {
                             "English" : "A lighter made out of metal. Perfect for starting fires and provide some light.",
-							"Spanish (Spain)" : "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad."
+							"Spanish (Spain)" : "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad.",
+							"Russian" : "Металлическая зажигалка. Дает немного света и отлично подходит для разведения огня."
     },
 	"GAMEPLAY_TanningRack" : {
                             "English" : "Tanning Rack",
-							"Spanish (Spain)" : "Bastidor para pieles"
+							"Spanish (Spain)" : "Bastidor para pieles",
+							"Russian" : "Сушилка для шкур"
     },
     "GAMEPLAY_TanningRackDescription" : {
                             "English" : "Wood, nails and strings that can be assembled to dry pelts faster.",
-							"Spanish (Spain)" : "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente."
+							"Spanish (Spain)" : "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente.",
+							"Russian" : "Укоряющая сушку шкур стойка собранная из дерева, болтов и лески."
     },
     "GAMEPLAY_TanningRackBP2Description" : {
                             "English" : "A tanning rack with a black bear's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él.",
+							"Russian" : "Сушика со свежей медвежьей шкурой"
     },
     "GAMEPLAY_TanningRackBP1Description" : {
                             "English" : "A tanning rack with a black bear's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco.",
+							"Russian" : "Сушика с высушенной медвежьей шкурой"
     },
     "GAMEPLAY_TanningRackMP2Description" : {
                             "English" : "A tanning rack with a moose's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él.",
+							"Russian" : "Сушика со свежей лосиной шкурой"
     },
     "GAMEPLAY_TanningRackMP1Description" : {
                             "English" : "A tanning rack with a moose's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco.",
+							"Russian" : "Сушика с высушенной лосиной шкурой"
     },
     "GAMEPLAY_TanningRackDPS2Description" : {
                             "English" : "A tanning rack with deer's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él.",
+							"Russian" : "Сушика со свежей оленьей шкурой"
     },
     "GAMEPLAY_TanningRackDPS1Description" : {
                             "English" : "A tanning rack with a deer's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco.",
+							"Russian" : "Сушика с высушенной оленьей шкурой"
     },
     "GAMEPLAY_TanningRackWPS2Description" : {
                             "English" : "A tanning rack with wolf's pelt attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él.",
+							"Russian" : "Сушика со свежей волчьей шкурой"
     },
     "GAMEPLAY_TanningRackWPS1Description" : {
                             "English" : "A tanning rack with a wolf's pelt attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco.",
+							"Russian" : "Сушика с высушенной волчьей шкурой"
     },
 	"GAMEPLAY_Tent" : {
 							"English" : "Tarp Tent",
-							"Spanish (Spain)" : "Tienda de lona"
+							"Spanish (Spain)" : "Tienda de lona",
+							"Russian" : "Брезентовая палатка"
 	},
 	"GAMEPLAY_TentDescription" : {
 							"English" : "An improvised tent, made out of tarp sheets, some cloth and spare metal parts, barely held toghether with duct tape. Not the best, but better than sleeping out in the open.",
-							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie."
+							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie.",
+							"Russian" : "Импровизированная палатка, созданная из брезента металических деталей и едва держащаяся на скотче. Не лучшее решение, но это лучше чем спать под открытым небом."
 	},
 	"GAMEPLAY_SatchelM" : {
 							"English" : "Ranger Satchel",
-							"Spanish (Spain)" : "Bolsa de guardabosques"
+							"Spanish (Spain)" : "Bolsa de guardabosques",
+							"Russian" : "Сумка рейнджера"
 	},
 	"GAMEPLAY_SatchelMDescription" : {
 							"English" : "A well made bag for carrying small items. Durable and useful.",
-							"Spanish (Spain)" : "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil."
+							"Spanish (Spain)" : "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil.",
+							"Russian" : "Качественно изготовленная сумка для небольших вещей. Прочная и полезная."
 	},
 	"GAMEPLAY_MapML" : {
 							"English" : "Mystery Lake Map",
-							"Spanish (Spain)" : "Mapa del Lago Misterioso"
+							"Spanish (Spain)" : "Mapa del Lago Misterioso",
+							"Russian" : "Карта Загадочного озера"
 	},
 	"GAMEPLAY_MapMLDescription" : {
 							"English" : "A map of Mystery Lake for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa del Lago Misterioso con fines turísticos."
+							"Spanish (Spain)" : "Un mapa del Lago Misterioso con fines turísticos.",
+							"Russian" : "Туристическая карта Загадочного озера"
 	},
 	"GAMEPLAY_MapMLDecoDescription" : {
 							"English" : "'The best place for camping'. \n\nA map of Mystery Lake for touristic purposes. \n\nYou can read on the back: \n\n'The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The area is a popular Summer-time destination with campers and hikers, but the area largely shuts down during the Winter months due to its inaccessibility'.",
-							"Spanish (Spain)" : "'El mejor lugar para acampar'. \n\nUn mapa del Lago Misterioso con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La región de Lago Misterioso un valle alpino, con una altitud media de 1200 metros por encima del nivel del mar, llamada así por el gran lago que domina la zona sur-este. El área es un destino popular durante el verano para campistas y senderistas, pero que se cierra en gran medida durante el invierno debido a su innacesibilidad'."
+							"Spanish (Spain)" : "'El mejor lugar para acampar'. \n\nUn mapa del Lago Misterioso con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La región de Lago Misterioso un valle alpino, con una altitud media de 1200 metros por encima del nivel del mar, llamada así por el gran lago que domina la zona sur-este. El área es un destino popular durante el verano para campistas y senderistas, pero que se cierra en gran medida durante el invierno debido a su innacesibilidad'.",
+							"Russian" : "'Лучшее место для кемпинга'. \n\nТуристическая карта Загадочного озера. \n\nНа обратной стороне написано: \n\n'Регион Таинственного озера представляет собой Альпийскую долину со средней высотой 1200 метров над уровнем моря, названную в честь большого озера, которое занимает значительную часть на юго-востоке. Этот регион является популярным местом отдыха в летнее время среди туристов, но в зимние месяцы он основном закрыт из-за недоступности'."
 	},
 	"GAMEPLAY_MapMT" : {
 							"English" : "Milton Map",
-							"Spanish (Spain)" : "Mapa de Milton"
+							"Spanish (Spain)" : "Mapa de Milton",
+							"Russian" : "Карта Мильтона"
 	},
 	"GAMEPLAY_MapMTDescription" : {
 							"English" : "A map of Milton for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de Milton con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de Milton con fines turísticos.",
+							"Russian" : "Туристическая карта Мильтона"
 	},
 	"GAMEPLAY_MapMTDecoDescription" : {
 							"English" : "'Meet the locals'. \n\nA map of Milton for touristic purposes. \n\nYou can read on the back: \n\n'Founded in 1911 during the early rush to mine coal in the surrounding mountains, Milton went through a boom/bust cycle throughout the 1900s, at one point peaking at about 1000 residents. Its location, about halfway between Port Mary and the interior mountains, gave it a natural advantage as a convenient stopping off point for fuel and supplies'.",
-							"Spanish (Spain)" : "'Conoce a los lugareños'. \n\nUn mapa de Milton con fines turísticos. \n\nPuedes leer en el reverso: \n\n'Fundado en 1911 durante la fiebre por minar carbón en las montañas que lo rodean, Milton pasó por un ciclo de boom y fracaso durante los 1900, en algún punto llegando a los 1000 habitantes. Su localización, a mitad de camino entre Puerto Mary y las montañas interiores, le daba una ventaja natural como una parada conveniente para repostar combustible y suministros'."
+							"Spanish (Spain)" : "'Conoce a los lugareños'. \n\nUn mapa de Milton con fines turísticos. \n\nPuedes leer en el reverso: \n\n'Fundado en 1911 durante la fiebre por minar carbón en las montañas que lo rodean, Milton pasó por un ciclo de boom y fracaso durante los 1900, en algún punto llegando a los 1000 habitantes. Su localización, a mitad de camino entre Puerto Mary y las montañas interiores, le daba una ventaja natural como una parada conveniente para repostar combustible y suministros'.",
+							"Russian" : "'Познакомьтесь с местными жителями'. \n\nТуристическая карта Мильтона. \n\nНа обратной стороне написано: \n\n'Основанный в 1911 году во время начала лихорадки по добыче угля в местных горах, Милтон на протяжении 1900-х годов пережил цикл и бума, и спада, и в какой-то момент город насчитывал около 1000 жителей. Его расположение, на полпути между портом Мэри и горами в глубине острова, давало ему преимущество в качестве удобного пункта остановки для восполнения топлива и припасов'."
 	},
 	"GAMEPLAY_MapBI" : {
 							"English" : "Bleak Inlet Map",
-							"Spanish (Spain)" : "Mapa de la Ensenada Lóbrega"
+							"Spanish (Spain)" : "Mapa de la Ensenada Lóbrega",
+							"Russian" : "Карта бледной бухты"
 	},
 	"GAMEPLAY_MapBIDescription" : {
 							"English" : "A map of Bleak Inlet for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de la Ensenada Lóbrega con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de la Ensenada Lóbrega con fines turísticos.",
+							"Russian" : "Туристическая карта Бледной бухты"
 	},
 	"GAMEPLAY_MapBIDecoDescription" : {
 							"English" : "'Heart of the industry'. \n\nA map of Bleak Inlet for touristic purposes. \n\nYou can read on the back: \n\n'Bleak Inlet was one of the most important economic hubs Great Bear had in the late 90's, with the most prominent source of income being the 'Last Resort' cannery and export docks, home for both fishers and factory workers. The name of the region, Bleak Inlet, is from a post-collapse origin, as this place was completely abandoned shortly after'.",
-							"Spanish (Spain)" : "'Corazón de la industria'. \n\nUn mapa de la Ensenada Lóbrega con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Ensenada Lóbrega fue uno de los centros económicos más importantes de Gran Oso a finales de los 90, siendo la fuente más prominente de ingresos la fábrica de conservas y muelles de exportación 'Último Recurso', hogar tanto para pescadores como trabajadores de fábrica. El nombre de la región es de origen post-colapso, ya que este lugar fue abandonado poco después'."
+							"Spanish (Spain)" : "'Corazón de la industria'. \n\nUn mapa de la Ensenada Lóbrega con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Ensenada Lóbrega fue uno de los centros económicos más importantes de Gran Oso a finales de los 90, siendo la fuente más prominente de ingresos la fábrica de conservas y muelles de exportación 'Último Recurso', hogar tanto para pescadores como trabajadores de fábrica. El nombre de la región es de origen post-colapso, ya que este lugar fue abandonado poco después'.",
+							"Russian" : "'Сердце индустрии'. \n\nТуристическая карта Бледной бухты. \n\nНа обратной стороне написано: \n\n'В конце 90-х годов Бледная бухта была одним из самых важных экономических центров острова Большого медведя, причем наиболее заметным источником дохода были консервный завод 'Last Resort' и доки для экспорта. Дом и для рыбаков, и для фабричных рабочих. Название региона, Бледная бухта, произошло поскольку оно было полностью заброшено вскоре после обрушения'."
 	},
 	"GAMEPLAY_MapPV" : {
 							"English" : "Pleasant Valley Map",
-							"Spanish (Spain)" : "Mapa del Valle Apacible"
+							"Spanish (Spain)" : "Mapa del Valle Apacible",
+							"Russian" : "Карта Отрадной долины"
 	},
 	"GAMEPLAY_MapPVDescription" : {
 							"English" : "A map of Pleasant Valley for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa del Valle Apacible con fines turísticos."
+							"Spanish (Spain)" : "Un mapa del Valle Apacible con fines turísticos.",
+							"Russian" : "Туристическая карта Отрадной долины."
 	},
 	"GAMEPLAY_MapPVDecoDescription" : {
 							"English" : "'Food for the island'. \n\nA map of Pleasant Valley for touristic purposes. \n\nYou can read on the back: \n\n'Pleasant Valley’s harsh and remote location, even for Great Bear Island, has shaped much of its history and the character of its residents. The Valley’s geography -- wide, open fields ringed by jagged mountain ranges -- creates unusually strong weather events. Locals have long told of multi-day storms, high winds, and a deep, endless cold during the Winter months'.",
-							"Spanish (Spain)" : "'Comida para la isla'.\n\nUn mapa del Valle Apacible con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La dura y remota localización del Valle Apacible, incluso para la isla de Gran Oso, ha moldeado su historia y el carácter de sus habitantes. La geografía del valle -- amplios y abiertos campos anillados por puntiagudas cadenas montañosas -- crea a menudo fuertes temporales. Los lugareños cuentan sobre tormentas que duran días, fuertes vientos, y de un profundo e interminable frío durante los meses de invierno'."
+							"Spanish (Spain)" : "'Comida para la isla'.\n\nUn mapa del Valle Apacible con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La dura y remota localización del Valle Apacible, incluso para la isla de Gran Oso, ha moldeado su historia y el carácter de sus habitantes. La geografía del valle -- amplios y abiertos campos anillados por puntiagudas cadenas montañosas -- crea a menudo fuertes temporales. Los lugareños cuentan sobre tormentas que duran días, fuertes vientos, y de un profundo e interminable frío durante los meses de invierno'.",
+							"Russian" : "'Кормилица острова'. \n\nТуристическая карта Отрадной долины. \n\nНа обратной стороне написано: \n\n'Суровое и отдаленное расположение Отрадной долины, даже для острова Великого медведя, во многом сформировали его историю и характер его жителей. Особенности долины — широкие открытые поля, окруженные зубчатыми горными хребтами — создает необычайно жёские погодные условия. Местные жители часто рассказывают о многодневных штормах, сильных ветрах и глубоком, бесконечном холоде в зимнее время года'."
 	},
 	"GAMEPLAY_MapCH" : {
 							"English" : "Coastal Highway Map",
-							"Spanish (Spain)" : "Mapa de la Autovía Litoral"
+							"Spanish (Spain)" : "Mapa de la Autovía Litoral",
+							"Russian" : "Карта Прибрежного шоссе"
 	},
 	"GAMEPLAY_MapCHDescription" : {
 							"English" : "A map of Coastal Highway for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de la Autovía Litoral con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de la Autovía Litoral con fines turísticos.",
+							"Russian" : "Туристическая карта Прибрежного шоссе."
 	},
 	"GAMEPLAY_MapCHDecoDescription" : {
 							"English" : "'Enjoy the views'. \n\nA map of Coastal Highway for touristic purposes. \n\nYou can read on the back: \n\n'The Great Bear Highway, also known as Highway 15, was built around the early 2000s as a way to facilitate transportation of goods from the mainland, as making easier going on a trip to the island. The construction of the coastal highway was heavily criticized by both islanders and a group of activist called 'The Forest Talkers', mostly because it caused the decline of the regional nature and economic activities from isolated towns'.",
-							"Spanish (Spain)" : "'Disfruta las vistas'. \n\nUn mapa de la Autovía Litoral con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Autovía de Gran Oso, también conocida como Autovía 15, fue construida sobre principios de los 2000 como forma de facilitar el transporte de mercancías desde el continente, así cómo de hacer más fácil los viajes a la isla. La construcción de la autovía costera fue fuertemente criticada tanto por los isleños como por un grupo activista llamado 'Los Oradores del Bosque', principalmente porque causaba la disminución de la naturraleza regional y de las actividades económicas de pueblos remotos'."
+							"Spanish (Spain)" : "'Disfruta las vistas'. \n\nUn mapa de la Autovía Litoral con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Autovía de Gran Oso, también conocida como Autovía 15, fue construida sobre principios de los 2000 como forma de facilitar el transporte de mercancías desde el continente, así cómo de hacer más fácil los viajes a la isla. La construcción de la autovía costera fue fuertemente criticada tanto por los isleños como por un grupo activista llamado 'Los Oradores del Bosque', principalmente porque causaba la disminución de la naturraleza regional y de las actividades económicas de pueblos remotos'.",
+							"Russian" : "'Наслаждайтесь видами'. \n\nТуристическая карта Прибрежного шоссе. \n\nНа обратной стороне написано: \n\n'Шоссе Великого медведя, также известное как шоссе 15, было построено примерно в начале 2000-х годов как способ облегчить не только транспортировку товаров с материка, но и перемещение по острову в целом. Строительство прибрежного шоссе подвергалось резкой критике не только островитянами, так и группой активистов под названием 'Лесные ораторы', главным образом потому что оно нанесло урон природе региона и экономической активности изолированных городов'."
 	},
 	"GAMEPLAY_TentBear" : {
 							"English" : "Hunter's Tent",
-							"Spanish (Spain)" : "Tienda de cazador"
+							"Spanish (Spain)" : "Tienda de cazador",
+							"Russian" : "Охотничья палатка"
 	},
 	"GAMEPLAY_TentBearDescription" : {
 							"English" : "A heavy and sturdy tent, made out of bear hide and wood. Will hold during blizzards and maybe scare wolves.",
-							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos."
+							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos.",
+							"Russian" : "Тяжелая и прочная палатка из медвежьих шкур и древесины. Защитит от метели и, возможно, испугает волков."
 	},
 	"GAMEPLAY_Book1011" : {
 							"English" : "Survival 101 Vol.1",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.1"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.1",
+							"Russian" : "Выживание 101 Том.1"
 	},
 	"GAMEPLAY_Book1011Description" : {
 							"English" : "1st volume of a series. This one is called 'Camping Outside'. This book teaches you how to start making lasting fires.",
-							"Spanish (Spain)" : "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos."
+							"Spanish (Spain)" : "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos.",
+							"Russian" : "1й том в серии книг. Он называется 'Лагерь на природе'. Эта книга научит вас поддеживать огонь дольше."
 	},
 	"GAMEPLAY_Book1012" : {
 							"English" : "Survival 101 Vol.2",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.2"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.2",
+							"Russian" : "Выживание 101 Том.2"
 	},
 	"GAMEPLAY_Book1012Description" : {
 							"English" : "2nd volume of a series. This one is called 'Cooking Basics'. This book teaches you how to properly prepare food.",
-							"Spanish (Spain)" : "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada."
+							"Spanish (Spain)" : "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada.",
+							"Russian" : "2й том в серии книг. Он называется 'Основы кулинарии'. Эта книга научит вас правильно готовить еду."
 	},
 	"GAMEPLAY_Book1013" : {
 							"English" : "Survival 101 Vol.3",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.3"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.3",
+							"Russian" : "Выживание 101 Том.3"
 	},
 	"GAMEPLAY_Book1013Description" : {
 							"English" : "3rd volume of a series. This one is called 'Clothing Misfortune'. This book teaches you how to mend worn out clothes.",
-							"Spanish (Spain)" : "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada."
+							"Spanish (Spain)" : "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada.",
+							"Russian" : "3й том в серии книг. Он называется 'Швейное несчастье'. Эта книга научит вас как подшить изношенную одежду."
 	},
 	"GAMEPLAY_Book1014" : {
 							"English" : "Survival 101 Vol.4",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.4"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.4",
+							"Russian" : "Выживание 101 Том.4"
 	},
 	"GAMEPLAY_Book1014Description" : {
 							"English" : "4th volume of a series. This one is called 'Mind the Hook'. This book teaches you how to fish in frozen landscapes.",
-							"Spanish (Spain)" : "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados."
+							"Spanish (Spain)" : "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados.",
+							"Russian" : "4й том в серии книг. Он называется 'Берегись крючка'. Эта книга улучшит ваше понимание подлёдной рыбалки."
 	},
 	"GAMEPLAY_Book1015" : {
 							"English" : "Survival 101 Vol.5",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.5"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.5",
+							"Russian" : "Выживание 101 Том.5"
 	},
 	"GAMEPLAY_Book1015Description" : {
 							"English" : "5th volume of a series. This one is called 'Stalking Prey'. This book teaches you how to hunt with a bow.",
-							"Spanish (Spain)" : "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco."
+							"Spanish (Spain)" : "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco.",
+							"Russian" : "5й том в серии книг. Он называется 'Преследуя добычу'. Знания из этой книги помогут вам лучше охотиться с луком."
 	},
 	"GAMEPLAY_Book1016" : {
 							"English" : "Survival 101 Vol.6",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.6"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.6",
+							"Russian" : "Выживание 101 Том.6"
 	},
 	"GAMEPLAY_Book1016Description" : {
 							"English" : "6th volume of a series. This one is called 'Handling Carcasses'. This book teaches you how to properly harvest prey and get the best out of it.",
-							"Spanish (Spain)" : "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas."
+							"Spanish (Spain)" : "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas.",
+							"Russian" : "6й том в серии книг. Он называется 'Обработка туш'. Благодаря этой книге вы сможете лучше собирать добычу с максимальной пользой."
 	},
 	"GAMEPLAY_CT_MapLabel" : {
 							"English" : "Survey",
-							"Spanish (Spain)" : "Investigar"
+							"Spanish (Spain)" : "Investigar",
+							"Russian" : "Изучить"
 	},
 	"GAMEPLAY_CT_MapProgressBar" : {
 							"English" : "Surveying...",
-							"Spanish (Spain)" : "Investigando..."
+							"Spanish (Spain)" : "Investigando...",
+							"Russian" : "Изучение..."
 	},
 	"GAMEPLAY_CT_InteriorError" : {
 							"English" : "You can't survey a map on interiors."
-							"Spanish (Spain)" : "No puedes investigar un mapa en interiores."
+							"Spanish (Spain)" : "No puedes investigar un mapa en interiores.",
+							"Russian" : "Нельзя изучать карту в помещении."
 	},
 	"GAMEPLAY_CT_RegionError" : {
 							"English" : "You can't survey a map without references."
-							"Spanish (Spain)" : "No puedes investigar un mapa sin referencias."
+							"Spanish (Spain)" : "No puedes investigar un mapa sin referencias.",
+							"Russian" : "Нельзя изучать карту без ориентиров."
 	},
 	"GAMEPLAY_CT_TRackButton" : {
 							"English" : "Assemble"
-							"Spanish (Spain)" : "Montar"
+							"Spanish (Spain)" : "Montar",
+							"Russian" : "Собрать"
 	},
 	"GAMEPLAY_CT_TRackDeerS" : {
 							"English" : "Deer Hide (Single)"
-							"Spanish (Spain)" : "Piel de ciervo (Unidad)"
+							"Spanish (Spain)" : "Piel de ciervo (Unidad)",
+							"Russian" : "Оленья шкура (одна)"
 	},
 	"GAMEPLAY_CT_TRackWolfS" : {
 							"English" : "Wolf Pelt (Single)"
-							"Spanish (Spain)" : "Piel de lobo (Unidad)"
+							"Spanish (Spain)" : "Piel de lobo (Unidad)",
+							"Russian" : "Волчья шкура (одна)"
 	},
 	"GAMEPLAY_CT_TRackBear" : {
 							"English" : "Bear Hide"
-							"Spanish (Spain)" : "Piel de oso"
+							"Spanish (Spain)" : "Piel de oso",
+							"Russian" : "Медвежья шкура"
 	},
 	"GAMEPLAY_CT_TRackMoose" : {
 							"English" : "Moose Hide"
-							"Spanish (Spain)" : "Piel de alce"
+							"Spanish (Spain)" : "Piel de alce",
+							"Russian" : "Лосиная шкура"
 	},
 	"GAMEPLAY_CT_PlaceLabel" :{
 							"English" : "Place",
-							"Spanish (Spain)" : "Colocar"
+							"Spanish (Spain)" : "Colocar",
+							"Russian" : "Место"
 	}
 }
