@@ -42,42 +42,42 @@
     "GAMEPLAY_TanningRackBP2Description" : {
                             "English" : "A tanning rack with a black bear's hide attached.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él.",
-							"Russian" : "Сушика со свежей медвежьей шкурой"
+							"Russian" : "Сушилка со свежей медвежьей шкурой"
     },
     "GAMEPLAY_TanningRackBP1Description" : {
                             "English" : "A tanning rack with a black bear's hide attached. Completely dried.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco.",
-							"Russian" : "Сушика с высушенной медвежьей шкурой"
+							"Russian" : "Сушилка с высушенной медвежьей шкурой"
     },
     "GAMEPLAY_TanningRackMP2Description" : {
                             "English" : "A tanning rack with a moose's hide attached.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él.",
-							"Russian" : "Сушика со свежей лосиной шкурой"
+							"Russian" : "Сушилка со свежей лосиной шкурой"
     },
     "GAMEPLAY_TanningRackMP1Description" : {
                             "English" : "A tanning rack with a moose's hide attached. Completely dried.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco.",
-							"Russian" : "Сушика с высушенной лосиной шкурой"
+							"Russian" : "Сушилка с высушенной лосиной шкурой"
     },
     "GAMEPLAY_TanningRackDPS2Description" : {
                             "English" : "A tanning rack with deer's hide attached.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él.",
-							"Russian" : "Сушика со свежей оленьей шкурой"
+							"Russian" : "Сушилка со свежей оленьей шкурой"
     },
     "GAMEPLAY_TanningRackDPS1Description" : {
                             "English" : "A tanning rack with a deer's hide attached. Completely dried.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco.",
-							"Russian" : "Сушика с высушенной оленьей шкурой"
+							"Russian" : "Сушилка с высушенной оленьей шкурой"
     },
     "GAMEPLAY_TanningRackWPS2Description" : {
                             "English" : "A tanning rack with wolf's pelt attached.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él.",
-							"Russian" : "Сушика со свежей волчьей шкурой"
+							"Russian" : "Сушилка со свежей волчьей шкурой"
     },
     "GAMEPLAY_TanningRackWPS1Description" : {
                             "English" : "A tanning rack with a wolf's pelt attached. Completely dried.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco.",
-							"Russian" : "Сушика с высушенной волчьей шкурой"
+							"Russian" : "Сушилка с высушенной волчьей шкурой"
     },
 	"GAMEPLAY_Tent" : {
 							"English" : "Tarp Tent",
