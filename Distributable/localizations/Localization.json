@@ -1,238 +1,297 @@
 ﻿{
     "GAMEPLAY_KnifeJ" : {
                             "English" : "Jeremiah's Knife",
-							"Spanish (Spain)" : "Cuchillo de Jeremiah"
+							"Spanish (Spain)" : "Cuchillo de Jeremiah",
+	    						"Italian" : "Coltello di Jeremiah"
     },
     "GAMEPLAY_KnifeJDescription" : {
                             "English" : "A superior quality hunting knife. Heavier, but sharper. Whoever owned this was someone you wouldn't want to cross.",
-							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte."
+							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte.",
+	    						"Italian" : "Un coltello da caccia di qualità superiore. Più pesande, ma più tagliente. Chiunque possedeva questo era qualcuno che non vorresti incontrare."
     },
 	"GAMEPLAY_KnifeS" : {
                             "English" : "Scrap Metal Shard",
-							"Spanish (Spain)" : "Frangmento de chatarra"
+							"Spanish (Spain)" : "Frangmento de chatarra",
+							"Italian" : "Frammento di Metallo"
     },
     "GAMEPLAY_KnifeSDescription" : {
                             "English" : "Sharp piece of scrap metal that barely serves as an improvised knife. It's better than nothing.",
-							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada."
+							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada.",
+	    						"Italian" : "Un pezzo di metallo affilato che serve a malapena come coltello improvvisato. È meglio di niente."
     },
 	"GAMEPLAY_MetalLighter" : {
                             "English" : "Lighter",
-							"Spanish (Spain)" : "Mechero"
+							"Spanish (Spain)" : "Mechero",
+							"Italian" : "Accendino"
     },
     "GAMEPLAY_MetalLighterDescription" : {
                             "English" : "A lighter made out of metal. Perfect for starting fires and provide some light.",
-							"Spanish (Spain)" : "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad."
+							"Spanish (Spain)" : "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad.",
+	    						"Italian" : "Un accendino fatto in metallo. Perfetto per accendere fuochi e fornire un po' di luce."
     },
 	"GAMEPLAY_TanningRack" : {
                             "English" : "Tanning Rack",
-							"Spanish (Spain)" : "Bastidor para pieles"
+							"Spanish (Spain)" : "Bastidor para pieles",
+							"Italian" : "Cremagliera per Conciatura"
     },
     "GAMEPLAY_TanningRackDescription" : {
                             "English" : "Wood, nails and strings that can be assembled to dry pelts faster.",
-							"Spanish (Spain)" : "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente."
+							"Spanish (Spain)" : "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente.",
+	    						"Italian" : "Legno, chiodi e stringhe che possono essere assemblati per essiccare le pelli più velocemente."
     },
     "GAMEPLAY_TanningRackBP2Description" : {
                             "English" : "A tanning rack with a black bear's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él.",
+	    						"Italian" : "Una cremagliera per conciatura con la pelle d'orso attaccato."
     },
     "GAMEPLAY_TanningRackBP1Description" : {
                             "English" : "A tanning rack with a black bear's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco.",
+	    						"Italian" : "Una cremagliera per conciatura con la pelle d'orso attaccato. Completamente essiccato."
     },
     "GAMEPLAY_TanningRackMP2Description" : {
                             "English" : "A tanning rack with a moose's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él.",
+	    						"Italian" : "Una cremagliera per conciatura con la pelle di alce attaccato."
     },
     "GAMEPLAY_TanningRackMP1Description" : {
                             "English" : "A tanning rack with a moose's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco.",
+	    						"Italian" : "Una cremagliera per conciatura con la pelle di alce attaccato. Completamente essiccato."
     },
     "GAMEPLAY_TanningRackDPS2Description" : {
                             "English" : "A tanning rack with deer's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él.",
+	    						"Italian" : "Una cremagliera per conciatura con la pelle di cervo attaccato."
     },
     "GAMEPLAY_TanningRackDPS1Description" : {
                             "English" : "A tanning rack with a deer's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco.",
+	    						"Italian" : "Una cremagliera per conciatura con la pelle di cervo attaccato. Completamente essiccato."
     },
     "GAMEPLAY_TanningRackWPS2Description" : {
                             "English" : "A tanning rack with wolf's pelt attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él.",
+	    						"Italian" : "Una cremagliera per conciatura con la pelliccia di lupo attaccata."
     },
     "GAMEPLAY_TanningRackWPS1Description" : {
                             "English" : "A tanning rack with a wolf's pelt attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco.",
+	    						"Italian" : "Una cremagliera per conciatura con la pelliccia di lupo attaccata. Completamente Essiccata."
     },
 	"GAMEPLAY_Tent" : {
 							"English" : "Tarp Tent",
-							"Spanish (Spain)" : "Tienda de lona"
+							"Spanish (Spain)" : "Tienda de lona",
+							"Italian" : "Tenda di Telo"
 	},
 	"GAMEPLAY_TentDescription" : {
 							"English" : "An improvised tent, made out of tarp sheets, some cloth and spare metal parts, barely held toghether with duct tape. Not the best, but better than sleeping out in the open.",
-							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie."
+							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie.",
+							"Italian" : "Una tenda improvvisata, fatta dal telo, un po' di stoffa e pezzi di metallo di scorta, a malapena tenuti assieme con il nastro adesivo. Non è il migliore, ma meglio che dormire fuori all'aperto."
 	},
 	"GAMEPLAY_SatchelM" : {
 							"English" : "Ranger Satchel",
-							"Spanish (Spain)" : "Bolsa de guardabosques"
+							"Spanish (Spain)" : "Bolsa de guardabosques",
+							"Italian" : "Borsa del Ranger"
 	},
 	"GAMEPLAY_SatchelMDescription" : {
 							"English" : "A well made bag for carrying small items. Durable and useful.",
-							"Spanish (Spain)" : "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil."
+							"Spanish (Spain)" : "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil.",
+							"Italian" : "Una borsa ben fatta per portare oggetti di dimensioni piccole. Duro e utile."
 	},
 	"GAMEPLAY_MapML" : {
 							"English" : "Mystery Lake Map",
-							"Spanish (Spain)" : "Mapa del Lago Misterioso"
+							"Spanish (Spain)" : "Mapa del Lago Misterioso",
+							"Italian" : "Mappa di Mystery Lake"
 	},
 	"GAMEPLAY_MapMLDescription" : {
 							"English" : "A map of Mystery Lake for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa del Lago Misterioso con fines turísticos."
+							"Spanish (Spain)" : "Un mapa del Lago Misterioso con fines turísticos.",
+							"Italian" : "Una mappa di Mystery Lake per scopi turistici."
 	},
 	"GAMEPLAY_MapMLDecoDescription" : {
 							"English" : "'The best place for camping'. \n\nA map of Mystery Lake for touristic purposes. \n\nYou can read on the back: \n\n'The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The area is a popular Summer-time destination with campers and hikers, but the area largely shuts down during the Winter months due to its inaccessibility'.",
-							"Spanish (Spain)" : "'El mejor lugar para acampar'. \n\nUn mapa del Lago Misterioso con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La región de Lago Misterioso un valle alpino, con una altitud media de 1200 metros por encima del nivel del mar, llamada así por el gran lago que domina la zona sur-este. El área es un destino popular durante el verano para campistas y senderistas, pero que se cierra en gran medida durante el invierno debido a su innacesibilidad'."
+							"Spanish (Spain)" : "'El mejor lugar para acampar'. \n\nUn mapa del Lago Misterioso con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La región de Lago Misterioso un valle alpino, con una altitud media de 1200 metros por encima del nivel del mar, llamada así por el gran lago que domina la zona sur-este. El área es un destino popular durante el verano para campistas y senderistas, pero que se cierra en gran medida durante el invierno debido a su innacesibilidad'.",
+							"Italian" : "'Il posto migliore per campeggiare'. \n\nUna mappa di Mystery Lake per scopi turistici. \n\nSul retro si legge: \n\n'La regione di Mystery Lake è una valle alpina, altitudine media di 1200 metri sul livello del mare, che prende il nome dal grande lago che ne domina il quadrante Sud-Est. L'area è una destinazione estiva popolare tra campeggiatori ed escursionisti, ma viene in gran parte chiusa durante i mesi invernali a causa della sua inaccessibilità'."
 	},
 	"GAMEPLAY_MapMT" : {
 							"English" : "Milton Map",
-							"Spanish (Spain)" : "Mapa de Milton"
+							"Spanish (Spain)" : "Mapa de Milton",
+							"Italian" : "Mappa del Villaggio di Montagna"
 	},
 	"GAMEPLAY_MapMTDescription" : {
 							"English" : "A map of Milton for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de Milton con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de Milton con fines turísticos.",
+							"Italian" : "Una mappa del Villaggio di Montagna per scopi turistici."
 	},
 	"GAMEPLAY_MapMTDecoDescription" : {
 							"English" : "'Meet the locals'. \n\nA map of Milton for touristic purposes. \n\nYou can read on the back: \n\n'Founded in 1911 during the early rush to mine coal in the surrounding mountains, Milton went through a boom/bust cycle throughout the 1900s, at one point peaking at about 1000 residents. Its location, about halfway between Port Mary and the interior mountains, gave it a natural advantage as a convenient stopping off point for fuel and supplies'.",
-							"Spanish (Spain)" : "'Conoce a los lugareños'. \n\nUn mapa de Milton con fines turísticos. \n\nPuedes leer en el reverso: \n\n'Fundado en 1911 durante la fiebre por minar carbón en las montañas que lo rodean, Milton pasó por un ciclo de boom y fracaso durante los 1900, en algún punto llegando a los 1000 habitantes. Su localización, a mitad de camino entre Puerto Mary y las montañas interiores, le daba una ventaja natural como una parada conveniente para repostar combustible y suministros'."
+							"Spanish (Spain)" : "'Conoce a los lugareños'. \n\nUn mapa de Milton con fines turísticos. \n\nPuedes leer en el reverso: \n\n'Fundado en 1911 durante la fiebre por minar carbón en las montañas que lo rodean, Milton pasó por un ciclo de boom y fracaso durante los 1900, en algún punto llegando a los 1000 habitantes. Su localización, a mitad de camino entre Puerto Mary y las montañas interiores, le daba una ventaja natural como una parada conveniente para repostar combustible y suministros'.",
+							"Italian" : "'Incontra la gente del posto'. \n\nUna mappa del Villaggio di Montagna per scopi turistici. \n\nSul retro puoi leggere: \n\n'Fondata nel 1911 durante la prima corsa all'estrazione del carbone nelle montagne circostanti, Milton ha attraversato un ciclo di boom/bust per tutto il 1900, raggiungendo a un certo punto un picco di circa 1000 residenti . La sua posizione, circa a metà strada tra Port Mary e le montagne interne, gli conferiva un vantaggio naturale come comodo punto di sosta per carburante e rifornimenti."
 	},
 	"GAMEPLAY_MapBI" : {
 							"English" : "Bleak Inlet Map",
-							"Spanish (Spain)" : "Mapa de la Ensenada Lóbrega"
+							"Spanish (Spain)" : "Mapa de la Ensenada Lóbrega",
+							"Italian" : "Mappa di Bleak Inlet"
 	},
 	"GAMEPLAY_MapBIDescription" : {
 							"English" : "A map of Bleak Inlet for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de la Ensenada Lóbrega con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de la Ensenada Lóbrega con fines turísticos.",
+							"Italian" : "Una mappa di Bleak Inlet per scopi turistici."
 	},
 	"GAMEPLAY_MapBIDecoDescription" : {
 							"English" : "'Heart of the industry'. \n\nA map of Bleak Inlet for touristic purposes. \n\nYou can read on the back: \n\n'Bleak Inlet was one of the most important economic hubs Great Bear had in the late 90's, with the most prominent source of income being the 'Last Resort' cannery and export docks, home for both fishers and factory workers. The name of the region, Bleak Inlet, is from a post-collapse origin, as this place was completely abandoned shortly after'.",
-							"Spanish (Spain)" : "'Corazón de la industria'. \n\nUn mapa de la Ensenada Lóbrega con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Ensenada Lóbrega fue uno de los centros económicos más importantes de Gran Oso a finales de los 90, siendo la fuente más prominente de ingresos la fábrica de conservas y muelles de exportación 'Último Recurso', hogar tanto para pescadores como trabajadores de fábrica. El nombre de la región es de origen post-colapso, ya que este lugar fue abandonado poco después'."
+							"Spanish (Spain)" : "'Corazón de la industria'. \n\nUn mapa de la Ensenada Lóbrega con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Ensenada Lóbrega fue uno de los centros económicos más importantes de Gran Oso a finales de los 90, siendo la fuente más prominente de ingresos la fábrica de conservas y muelles de exportación 'Último Recurso', hogar tanto para pescadores como trabajadores de fábrica. El nombre de la región es de origen post-colapso, ya que este lugar fue abandonado poco después'.",
+							"Italian" : "'Cuore del settore'. \n\nUna mappa di Bleak Inlet per scopi turistici. \n\nSul retro puoi leggere: \n\n'Bleak Inlet era uno dei centri economici più importanti che Great Bear aveva nel fine degli anni '90, con la principale fonte di reddito rappresentata dall'industria conserviera 'Last Resort' e dai moli di esportazione, sede sia di pescatori che di operai. Il nome della regione, Bleak Inlet, deriva da un'origine post-crollo, poiché questo luogo era completamente abbandonato poco dopo'."
 	},
 	"GAMEPLAY_MapPV" : {
 							"English" : "Pleasant Valley Map",
-							"Spanish (Spain)" : "Mapa del Valle Apacible"
+							"Spanish (Spain)" : "Mapa del Valle Apacible",
+							"Italian" : "Mappa di Pleasant Valley"
 	},
 	"GAMEPLAY_MapPVDescription" : {
 							"English" : "A map of Pleasant Valley for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa del Valle Apacible con fines turísticos."
+							"Spanish (Spain)" : "Un mapa del Valle Apacible con fines turísticos.",
+							"Italian" : "Una mappa di Pleasant Valley per scopi turistici."
 	},
 	"GAMEPLAY_MapPVDecoDescription" : {
 							"English" : "'Food for the island'. \n\nA map of Pleasant Valley for touristic purposes. \n\nYou can read on the back: \n\n'Pleasant Valley’s harsh and remote location, even for Great Bear Island, has shaped much of its history and the character of its residents. The Valley’s geography -- wide, open fields ringed by jagged mountain ranges -- creates unusually strong weather events. Locals have long told of multi-day storms, high winds, and a deep, endless cold during the Winter months'.",
-							"Spanish (Spain)" : "'Comida para la isla'.\n\nUn mapa del Valle Apacible con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La dura y remota localización del Valle Apacible, incluso para la isla de Gran Oso, ha moldeado su historia y el carácter de sus habitantes. La geografía del valle -- amplios y abiertos campos anillados por puntiagudas cadenas montañosas -- crea a menudo fuertes temporales. Los lugareños cuentan sobre tormentas que duran días, fuertes vientos, y de un profundo e interminable frío durante los meses de invierno'."
+							"Spanish (Spain)" : "'Comida para la isla'.\n\nUn mapa del Valle Apacible con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La dura y remota localización del Valle Apacible, incluso para la isla de Gran Oso, ha moldeado su historia y el carácter de sus habitantes. La geografía del valle -- amplios y abiertos campos anillados por puntiagudas cadenas montañosas -- crea a menudo fuertes temporales. Los lugareños cuentan sobre tormentas que duran días, fuertes vientos, y de un profundo e interminable frío durante los meses de invierno'.",
+							"Italian" : "'Cibo per l'isola'. \n\nUna mappa di Pleasant Valley per scopi turistici. \n\nSul retro si può leggere: \n\n'La posizione aspra e remota di Pleasant Valley, anche per Great Bear Island, ha plasmato gran parte della sua storia e il carattere dei suoi abitanti. La geografia della valle - campi ampi e aperti circondati da catene montuose frastagliate - crea eventi meteorologici insolitamente forti. La gente del posto racconta da tempo di tempeste di più giorni, forti venti e un profondo, freddo infinito durante i mesi invernali."
 	},
 	"GAMEPLAY_MapCH" : {
 							"English" : "Coastal Highway Map",
-							"Spanish (Spain)" : "Mapa de la Autovía Litoral"
+							"Spanish (Spain)" : "Mapa de la Autovía Litoral",
+							"Italian" : "Mappa dell'Autostrada Costiera"
 	},
 	"GAMEPLAY_MapCHDescription" : {
 							"English" : "A map of Coastal Highway for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de la Autovía Litoral con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de la Autovía Litoral con fines turísticos.",
+							"Italian" : "Una mappa dell'Autostrada Costiera per scopi turistici."
 	},
 	"GAMEPLAY_MapCHDecoDescription" : {
 							"English" : "'Enjoy the views'. \n\nA map of Coastal Highway for touristic purposes. \n\nYou can read on the back: \n\n'The Great Bear Highway, also known as Highway 15, was built around the early 2000s as a way to facilitate transportation of goods from the mainland, as making easier going on a trip to the island. The construction of the coastal highway was heavily criticized by both islanders and a group of activist called 'The Forest Talkers', mostly because it caused the decline of the regional nature and economic activities from isolated towns'.",
-							"Spanish (Spain)" : "'Disfruta las vistas'. \n\nUn mapa de la Autovía Litoral con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Autovía de Gran Oso, también conocida como Autovía 15, fue construida sobre principios de los 2000 como forma de facilitar el transporte de mercancías desde el continente, así cómo de hacer más fácil los viajes a la isla. La construcción de la autovía costera fue fuertemente criticada tanto por los isleños como por un grupo activista llamado 'Los Oradores del Bosque', principalmente porque causaba la disminución de la naturraleza regional y de las actividades económicas de pueblos remotos'."
+							"Spanish (Spain)" : "'Disfruta las vistas'. \n\nUn mapa de la Autovía Litoral con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Autovía de Gran Oso, también conocida como Autovía 15, fue construida sobre principios de los 2000 como forma de facilitar el transporte de mercancías desde el continente, así cómo de hacer más fácil los viajes a la isla. La construcción de la autovía costera fue fuertemente criticada tanto por los isleños como por un grupo activista llamado 'Los Oradores del Bosque', principalmente porque causaba la disminución de la naturraleza regional y de las actividades económicas de pueblos remotos'.",
+							"Italian" : "'Godetevi il panorama'. \n\nUna mappa dell'Autostrada Costiera per scopi turistici. \n\nSul retro si può leggere: \n\n'La Great Bear Highway, conosciuta anche come Highway 15, fu costruita all'inizio anni 2000 come un modo per facilitare il trasporto di merci dalla terraferma, come per rendere più facile il viaggio verso l'isola. La costruzione dell'autostrada costiera è stata pesantemente criticata sia dagli isolani che da un gruppo di attivisti chiamato 'The Forest Talkers', soprattutto perché ha causato il declino della natura regionale e delle attività economiche delle città isolate."
 	},
 	"GAMEPLAY_TentBear" : {
 							"English" : "Hunter's Tent",
-							"Spanish (Spain)" : "Tienda de cazador"
+							"Spanish (Spain)" : "Tienda de cazador",
+							"Italian" : "Tenda del Cacciatore"
 	},
 	"GAMEPLAY_TentBearDescription" : {
 							"English" : "A heavy and sturdy tent, made out of bear hide and wood. Will hold during blizzards and maybe scare wolves.",
-							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos."
+							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos.",
+							"Italian" : "Una tenda robusta e pesande, fatta dalla pelle d'orso e legno. Resisterà durante le bufere e potrebbe spaventare i lupi."
 	},
 	"GAMEPLAY_Book1011" : {
 							"English" : "Survival 101 Vol.1",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.1"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.1",
+							"Italian" : "Sopravvivenza 101 Vol.1"
 	},
 	"GAMEPLAY_Book1011Description" : {
 							"English" : "1st volume of a series. This one is called 'Camping Outside'. This book teaches you how to start making lasting fires.",
-							"Spanish (Spain)" : "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos."
+							"Spanish (Spain)" : "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos.",
+							"Italian" : "Primo volume di una serie. Questo qua si chiamato 'Campeggio Fuori'. Questo libro ti insegna come iniziare a mantenere fuochi più a lungo."
 	},
 	"GAMEPLAY_Book1012" : {
 							"English" : "Survival 101 Vol.2",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.2"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.2",
+							"Italian" : "Sopravvivenza 101 Vol.2"
 	},
 	"GAMEPLAY_Book1012Description" : {
 							"English" : "2nd volume of a series. This one is called 'Cooking Basics'. This book teaches you how to properly prepare food.",
-							"Spanish (Spain)" : "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada."
+							"Spanish (Spain)" : "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada.",
+							"Italian" : "Secondo volume di una serie. Questo qua si chiama 'Nozioni di Base sulla Cucina'. Questo libro ti insegna a preparare correttamente il cibo."
 	},
 	"GAMEPLAY_Book1013" : {
 							"English" : "Survival 101 Vol.3",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.3"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.3",
+							"Italian" : "Sopravvivenza 101 Vol.3"
 	},
 	"GAMEPLAY_Book1013Description" : {
 							"English" : "3rd volume of a series. This one is called 'Clothing Misfortune'. This book teaches you how to mend worn out clothes.",
-							"Spanish (Spain)" : "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada."
+							"Spanish (Spain)" : "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada.",
+							"Italian" : "Terzo volume di una serie. Questo qua si chiama 'Sfortune dei Vestiti'. Questo libro ti insegna come riparare vestiti danneggiati."
 	},
 	"GAMEPLAY_Book1014" : {
 							"English" : "Survival 101 Vol.4",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.4"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.4",
+							"Italian" : "Sopravvivenza 101 Vol.4"
 	},
 	"GAMEPLAY_Book1014Description" : {
 							"English" : "4th volume of a series. This one is called 'Mind the Hook'. This book teaches you how to fish in frozen landscapes.",
-							"Spanish (Spain)" : "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados."
+							"Spanish (Spain)" : "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados.",
+							"Italian" : "Quarto volume di una serie. Questo qua si chiama 'Attenzione al Gancio'. Questo libro ti insegna come pescare nel territorio congelato."
 	},
 	"GAMEPLAY_Book1015" : {
 							"English" : "Survival 101 Vol.5",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.5"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.5",
+							"Italian" : "Sopravvivenza 101 Vol.5"
 	},
 	"GAMEPLAY_Book1015Description" : {
 							"English" : "5th volume of a series. This one is called 'Stalking Prey'. This book teaches you how to hunt with a bow.",
-							"Spanish (Spain)" : "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco."
+							"Spanish (Spain)" : "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco.",
+							"Italian" : "Quinto volume di una serie. Questo qua si chiama 'Inseguendo la Preda'. Questo libro ti insegna come cacciare con un arco."
 	},
 	"GAMEPLAY_Book1016" : {
 							"English" : "Survival 101 Vol.6",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.6"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.6",
+							"Italian" : "Sopravvivenza 101 Vol.6"
 	},
 	"GAMEPLAY_Book1016Description" : {
 							"English" : "6th volume of a series. This one is called 'Handling Carcasses'. This book teaches you how to properly harvest prey and get the best out of it.",
-							"Spanish (Spain)" : "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas."
+							"Spanish (Spain)" : "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas.",
+							"Italian" : "Sesto volume di una serie. Questo qua si chiama 'Manipolazione delle Carcasse'. Questo libro ti insegna come raccogliere correttamente le carcasse e ottenere il meglio di essi."
 	},
 	"GAMEPLAY_CT_MapLabel" : {
 							"English" : "Survey",
-							"Spanish (Spain)" : "Investigar"
+							"Spanish (Spain)" : "Investigar",
+							"Italian" : "Mappa"
 	},
 	"GAMEPLAY_CT_MapProgressBar" : {
 							"English" : "Surveying...",
-							"Spanish (Spain)" : "Investigando..."
+							"Spanish (Spain)" : "Investigando...",
+							"Italian" : "Mappando..."
 	},
 	"GAMEPLAY_CT_InteriorError" : {
 							"English" : "You can't survey a map on interiors."
-							"Spanish (Spain)" : "No puedes investigar un mapa en interiores."
+							"Spanish (Spain)" : "No puedes investigar un mapa en interiores.",
+							"Italian" : "Non puoi mappare all'interno."
 	},
 	"GAMEPLAY_CT_RegionError" : {
 							"English" : "You can't survey a map without references."
-							"Spanish (Spain)" : "No puedes investigar un mapa sin referencias."
+							"Spanish (Spain)" : "No puedes investigar un mapa sin referencias.",
+							"Italian" : "Non puoi mappare senza riferimenti."
 	},
 	"GAMEPLAY_CT_TRackButton" : {
 							"English" : "Assemble"
-							"Spanish (Spain)" : "Montar"
+							"Spanish (Spain)" : "Montar",
+							"Italian" : "Assemblea
 	},
 	"GAMEPLAY_CT_TRackDeerS" : {
 							"English" : "Deer Hide (Single)"
-							"Spanish (Spain)" : "Piel de ciervo (Unidad)"
+							"Spanish (Spain)" : "Piel de ciervo (Unidad)",
+							"Italian" : "Pelle di Cervo (Singolo)"
 	},
 	"GAMEPLAY_CT_TRackWolfS" : {
 							"English" : "Wolf Pelt (Single)"
-							"Spanish (Spain)" : "Piel de lobo (Unidad)"
+							"Spanish (Spain)" : "Piel de lobo (Unidad)",
+							"Italian" : "Pelliccia di Lupo (Singola)"
 	},
 	"GAMEPLAY_CT_TRackBear" : {
 							"English" : "Bear Hide"
-							"Spanish (Spain)" : "Piel de oso"
+							"Spanish (Spain)" : "Piel de oso",
+							"Italian" : "Pelle d'Orso (Singolo)"
 	},
 	"GAMEPLAY_CT_TRackMoose" : {
 							"English" : "Moose Hide"
-							"Spanish (Spain)" : "Piel de alce"
+							"Spanish (Spain)" : "Piel de alce",
+							"Italian" : "Pelle di Alce (Singolo)"
 	},
 	"GAMEPLAY_CT_PlaceLabel" :{
 							"English" : "Place",
-							"Spanish (Spain)" : "Colocar"
+							"Spanish (Spain)" : "Colocar",
+							"Italian" : "Piazza"
 	}
 }
