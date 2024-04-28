@@ -7,7 +7,7 @@
     "GAMEPLAY_KnifeJDescription" : {
                             "English" : "A superior quality hunting knife. Heavier, but sharper. Whoever owned this was someone you wouldn't want to cross.",
 							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte.",
-	    						"Italian" : "Un coltello da caccia di qualità superiore. Più pesande, ma più tagliente. Chiunque possedeva questo era qualcuno che non vorresti incontrare."
+	    						"Italian" : "Un coltello da caccia di qualità superiore. Più pesante, ma più tagliente. Chiunque possedeva questo era qualcuno che non vorresti incontrare."
     },
 	"GAMEPLAY_KnifeS" : {
                             "English" : "Scrap Metal Shard",
@@ -42,32 +42,32 @@
     "GAMEPLAY_TanningRackBP2Description" : {
                             "English" : "A tanning rack with a black bear's hide attached.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él.",
-	    						"Italian" : "Una cremagliera per conciatura con la pelle d'orso attaccato."
+	    						"Italian" : "Una cremagliera per conciatura con la pelle d'orso attaccata."
     },
     "GAMEPLAY_TanningRackBP1Description" : {
                             "English" : "A tanning rack with a black bear's hide attached. Completely dried.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco.",
-	    						"Italian" : "Una cremagliera per conciatura con la pelle d'orso attaccato. Completamente essiccato."
+	    						"Italian" : "Una cremagliera per conciatura con la pelle d'orso attaccata. Completamente essiccata."
     },
     "GAMEPLAY_TanningRackMP2Description" : {
                             "English" : "A tanning rack with a moose's hide attached.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él.",
-	    						"Italian" : "Una cremagliera per conciatura con la pelle di alce attaccato."
+	    						"Italian" : "Una cremagliera per conciatura con la pelle di alce attaccata."
     },
     "GAMEPLAY_TanningRackMP1Description" : {
                             "English" : "A tanning rack with a moose's hide attached. Completely dried.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco.",
-	    						"Italian" : "Una cremagliera per conciatura con la pelle di alce attaccato. Completamente essiccato."
+	    						"Italian" : "Una cremagliera per conciatura con la pelle di alce attaccata. Completamente essiccata."
     },
     "GAMEPLAY_TanningRackDPS2Description" : {
                             "English" : "A tanning rack with deer's hide attached.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él.",
-	    						"Italian" : "Una cremagliera per conciatura con la pelle di cervo attaccato."
+	    						"Italian" : "Una cremagliera per conciatura con la pelle di cervo attaccata."
     },
     "GAMEPLAY_TanningRackDPS1Description" : {
                             "English" : "A tanning rack with a deer's hide attached. Completely dried.",
 							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco.",
-	    						"Italian" : "Una cremagliera per conciatura con la pelle di cervo attaccato. Completamente essiccato."
+	    						"Italian" : "Una cremagliera per conciatura con la pelle di cervo attaccata. Completamente essiccata."
     },
     "GAMEPLAY_TanningRackWPS2Description" : {
                             "English" : "A tanning rack with wolf's pelt attached.",
@@ -182,7 +182,7 @@
 	"GAMEPLAY_TentBearDescription" : {
 							"English" : "A heavy and sturdy tent, made out of bear hide and wood. Will hold during blizzards and maybe scare wolves.",
 							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos.",
-							"Italian" : "Una tenda robusta e pesande, fatta dalla pelle d'orso e legno. Resisterà durante le bufere e potrebbe spaventare i lupi."
+							"Italian" : "Una tenda robusta e pesante, fatta dalla pelle d'orso e legno. Resisterà durante le bufere e potrebbe spaventare i lupi."
 	},
 	"GAMEPLAY_Book1011" : {
 							"English" : "Survival 101 Vol.1",
@@ -272,7 +272,7 @@
 	"GAMEPLAY_CT_TRackDeerS" : {
 							"English" : "Deer Hide (Single)"
 							"Spanish (Spain)" : "Piel de ciervo (Unidad)",
-							"Italian" : "Pelle di Cervo (Singolo)"
+							"Italian" : "Pelle di Cervo (Singola)"
 	},
 	"GAMEPLAY_CT_TRackWolfS" : {
 							"English" : "Wolf Pelt (Single)"
@@ -282,12 +282,12 @@
 	"GAMEPLAY_CT_TRackBear" : {
 							"English" : "Bear Hide"
 							"Spanish (Spain)" : "Piel de oso",
-							"Italian" : "Pelle d'Orso (Singolo)"
+							"Italian" : "Pelle d'Orso (Singola)"
 	},
 	"GAMEPLAY_CT_TRackMoose" : {
 							"English" : "Moose Hide"
 							"Spanish (Spain)" : "Piel de alce",
-							"Italian" : "Pelle di Alce (Singolo)"
+							"Italian" : "Pelle di Alce (Singola)"
 	},
 	"GAMEPLAY_CT_PlaceLabel" :{
 							"English" : "Place",
