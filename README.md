@@ -43,6 +43,11 @@
 
 Complete item list [here](https://github.com/TLD-Mods/Data/wiki/Modded-gear-items#camping-tools).
 
+## Credits
+* Russian localization by [Tyler-Sky](https://github.com/Tyler-Sky).
+* Turkish localization by [Elderly-Emre](https://github.com/Elderly-Emre).
+* Italian localization by [LettereUniche](https://github.com/LettereUniche).
+
 ## Troubleshooting
 
 For any doubt, question or technical support you might need, contact me throught the [TLD Modding](https://discord.com/invite/nb2jQez) Discord server and place a message at #jods.
