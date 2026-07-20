@@ -13,6 +13,6 @@ internal sealed class Implementations : MelonMod
         ExamineActionsAPI.ExamineActionsAPI.Register(new TanningRackActions2());
         ExamineActionsAPI.ExamineActionsAPI.Register(new TanningRackActions3());
         ExamineActionsAPI.ExamineActionsAPI.Register(new TanningRackActions4());
-        MelonLoader.MelonLogger.Msg("Camping Tools Loaded!");
+        CTUtils.LaunchCampingTools();
 	}
 }

@@ -64,6 +64,12 @@ namespace CampingTools
 
 
             if (thisGearItem == null) return;
+            if (GameManager.GetInventoryComponent().GearInInventory(mapName + "Deco", 1) == true)
+            {
+                CTUtils.MapErrorMsg(true);
+                GameAudioManager.PlayGUIError();
+                return;
+            }
             if (mapName == "GEAR_MapML" && regionName == "LakeRegion")
             {
                 GameAudioManager.PlayGuiConfirm();
@@ -109,7 +115,6 @@ namespace CampingTools
                 CTUtils.MapErrorMsg(regionName);
                 GameAudioManager.PlayGUIError();
             }
-
         }
         private static void OnMapSurveyFinished(bool success, bool playerCancel, float progress)
         {
@@ -140,13 +145,11 @@ namespace CampingTools
             {
                 GameAudioManager.PlaySound("PLAY_MUSICMOOD_VISTA", player);
             }
-
-
         }
 
         private static void OnPlaceTR()
         {
-            var toDrop = TRItem?.m_StackableItem?.m_UnitsPerItem ?? 1;
+            var toDrop = TRItem?.m_StackableItem?.m_Units ?? 1;
             toDrop = Mathf.Clamp(toDrop, 0, TRItem?.m_StackableItem?.m_Units ?? 1);
             var dropped = TRItem.Drop(toDrop);
             CTUtils.inventory.OnBack();

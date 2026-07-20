@@ -14,7 +14,7 @@ namespace CampingTools.TanningRackActions
 
         string IExamineAction.MenuItemLocalizationKey => "GAMEPLAY_CT_TRackDeerS";
 
-        string IExamineAction.MenuItemSpriteName => null;
+        string IExamineAction.MenuItemSpriteName => "ico_CraftItem__TanningRackDPS2";
 
         LocalizedString IExamineAction.ActionButtonLocalizedString { get; } = new LocalizedString() { m_LocalizationID = "GAMEPLAY_CT_TRackButton" };
 
@@ -23,19 +23,19 @@ namespace CampingTools.TanningRackActions
             return item.name == "GEAR_TanningRack";
 
         }
-        void IExamineActionRequireItems.GetRequiredItems(ExamineActionState state, List<MaterialOrProductItemConf> items)
+        void IExamineActionRequireItems.GetMaterialItems(ExamineActionState state, List<MaterialOrProductItemConf> items)
         {
             items.Add(new("GEAR_LeatherHide", 1, 100));
         }
         bool IExamineAction.CanPerform(ExamineActionState state) => true;
-        void IExamineAction.OnPerform(ExamineActionState state) { }
+        void IExamineAction.OnPerforming(ExamineActionState state) { }
 
-        int IExamineAction.CalculateDurationMinutes(ExamineActionState state)
+        int IExamineAction.GetDurationMinutes(ExamineActionState state)
         {
             return 15;
         }
 
-        float IExamineAction.CalculateProgressSeconds(ExamineActionState state)
+        float IExamineAction.GetProgressSeconds(ExamineActionState state)
         {
             return 5;
         }
@@ -46,7 +46,7 @@ namespace CampingTools.TanningRackActions
 
         void IExamineAction.OnActionDeselected(ExamineActionState state) { }
 
-        bool IExamineAction.ConsumeOnSuccess(ExamineActionState state) => true;
+        bool IExamineAction.ShouldConsumeOnSuccess(ExamineActionState state) => true;
 
         int IExamineAction.GetSubActionCount(ExamineActionState state) => 1;
         void IExamineActionProduceItems.GetProducts(ExamineActionState state, List<MaterialOrProductItemConf> products)

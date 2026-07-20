@@ -16,6 +16,15 @@ namespace CampingTools
         public static GearItem map3 = Addressables.LoadAssetAsync<GameObject>("GEAR_MapMTDeco").WaitForCompletion().GetComponent<GearItem>();
         public static GearItem map4 = Addressables.LoadAssetAsync<GameObject>("GEAR_MapCHDeco").WaitForCompletion().GetComponent<GearItem>();
         public static GearItem map5 = Addressables.LoadAssetAsync<GameObject>("GEAR_MapBIDeco").WaitForCompletion().GetComponent<GearItem>();
+
+        public static void LaunchCampingTools()
+        {
+            MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Sharpening knives...");
+            MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Surveying maps...");
+            MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Setting up camp...");
+            MelonLoader.MelonLogger.Msg(System.ConsoleColor.Green, "Camping Tools v2.2.2 Loaded!");
+            Settings.instance.AddToModSettings("Camping Tools");
+        }
         public static T? GetComponentSafe<T>(this Component? component) where T : Component
         {
             return component == null ? default : GetComponentSafe<T>(component.GetGameObject());
@@ -81,6 +90,17 @@ namespace CampingTools
                 }
             }
             HUDMessage.AddMessage(Localization.Get("GAMEPLAY_CT_InteriorError"));
+        }
+        public static void MapErrorMsg(bool obtained)
+        {
+            if (obtained)
+            {
+                HUDMessage.AddMessage(Localization.Get("GAMEPLAY_CT_MapObtained"));
+            }
+            else
+            {
+                return;
+            }
         }
     }
 }
