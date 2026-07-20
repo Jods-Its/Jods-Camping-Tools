@@ -1,0 +1,2 @@
+scene=SafeHouseA
+item=GEAR_JeremiahKnife p=-2.0340,0.9408,6.5671 r=90.0000,269.5673,0.0000 c=100

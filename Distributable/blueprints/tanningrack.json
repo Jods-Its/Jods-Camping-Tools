@@ -4,7 +4,7 @@
     "KeroseneLitersRequired": 0.0,
     "GunpowderKGRequired": 0.0,
     "RequiredTool": "GEAR_Knife",
-    "OptionalTools": ["GEAR_KnifeImprovised", "GEAR_JeremiahKnife", "GEAR_KnifeScrapMetal"],
+    "OptionalTools": ["GEAR_KnifeImprovised", "GEAR_JeremiahKnife", "GEAR_KnifeScrapMetal", "GEAR_CougarClawKnife"],
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
