@@ -3,6 +3,12 @@
 ![Image](https://github.com/Jods-Its/Jods-Camping-Tools/blob/main/Images/s4QXeLl.jpg)
 
 > A mod for The Long Dark, by Hinterland Studio, that adds a set of tools for outdoors adventures. Open to sugestions!
+> 
+## DISCLAIMER
+This software, including its code, 3D assets and 2D textures is **100% human made**. **It may not be used to train LLM's datasets, and its not condoned its modification through one**. 
+**It may not be used for commercial purposes**, and, until the author haven't freed all of the files, **derivative work on this software may only be made under direct and undoubted approval**.
+
+**This software and its author are not associated with neither The Long Dark nor Hinterland Studios Inc in any way, shape or form.**
 
 ## Usage
 
