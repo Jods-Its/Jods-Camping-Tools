@@ -1,238 +1,298 @@
 ﻿{
     "GAMEPLAY_KnifeJ" : {
                             "English" : "Jeremiah's Knife",
-							"Spanish (Spain)" : "Cuchillo de Jeremiah"
+							"Spanish (Spain)" : "Cuchillo de Jeremiah",
+							"Japanese" : "ジェレミアのナイフ"
     },
     "GAMEPLAY_KnifeJDescription" : {
                             "English" : "A superior quality hunting knife. Heavier, but sharper. Whoever owned this was someone you wouldn't want to cross.",
-							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte."
+							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte.",
+							"Japanese" : "高品質の狩猟用ナイフ。重たいが鋭利だ。このナイフの持ち主が誰であれ、君は逆らいたくないだろう。"
     },
 	"GAMEPLAY_KnifeS" : {
                             "English" : "Scrap Metal Shard",
-							"Spanish (Spain)" : "Frangmento de chatarra"
+							"Spanish (Spain)" : "Frangmento de chatarra",
+							"Japanese" : "金属くずの破片"
     },
     "GAMEPLAY_KnifeSDescription" : {
                             "English" : "Sharp piece of scrap metal that barely serves as an improvised knife. It's better than nothing.",
-							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada."
+							"Spanish (Spain)" : "Trozo afilado de metal que sirve como un cuchillo improvisado, más o menos. Es mejor que nada.",
+    							"Japanese" : "即席のナイフとしてなんとか使えそうな金属くずの鋭利な破片。何もないよりはましだ。"
     },
 	"GAMEPLAY_MetalLighter" : {
                             "English" : "Lighter",
-							"Spanish (Spain)" : "Mechero"
+							"Spanish (Spain)" : "Mechero",
+							"Japanese" : "オイルライター"
     },
     "GAMEPLAY_MetalLighterDescription" : {
                             "English" : "A lighter made out of metal. Perfect for starting fires and provide some light.",
-							"Spanish (Spain)" : "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad."
+							"Spanish (Spain)" : "Un mechero metálico. Perfecto para hacer fuegos y alumbrar en la oscuridad.",
+							"Japanese" : "金属製のオイルライター。火おこしに最適で明かりにも使える。"
     },
 	"GAMEPLAY_TanningRack" : {
                             "English" : "Tanning Rack",
-							"Spanish (Spain)" : "Bastidor para pieles"
+							"Spanish (Spain)" : "Bastidor para pieles",
+							"Japanese" : "なめし台"
+
     },
     "GAMEPLAY_TanningRackDescription" : {
                             "English" : "Wood, nails and strings that can be assembled to dry pelts faster.",
-							"Spanish (Spain)" : "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente."
+							"Spanish (Spain)" : "Madera, clavos y cuerdas que pueden ser montadas para secar pieles rápidamente.",
+							"Japanese" : "木材と釘、糸で組み立てられた、毛皮を早く乾かすためのもの。"
     },
     "GAMEPLAY_TanningRackBP2Description" : {
                             "English" : "A tanning rack with a black bear's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él.",
+							"Japanese" : "クマの毛皮が掛けられたなめし台。"
     },
     "GAMEPLAY_TanningRackBP1Description" : {
                             "English" : "A tanning rack with a black bear's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un oso negro enganchado a él. Completamente seco.",
+							"Japanese" : "クマの毛皮が掛けられたなめし台。完全に乾いている。"
     },
     "GAMEPLAY_TanningRackMP2Description" : {
                             "English" : "A tanning rack with a moose's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él.",
+							"Japanese" : "ヘラジカの毛皮が掛けられたなめし台。"
     },
     "GAMEPLAY_TanningRackMP1Description" : {
                             "English" : "A tanning rack with a moose's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un alce enganchado a él. Completamente seco.",
+							"Japanese" : "ヘラジカの毛皮が掛けられたなめし台。完全に乾いている。"
     },
     "GAMEPLAY_TanningRackDPS2Description" : {
                             "English" : "A tanning rack with deer's hide attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él.",
+							"Japanese" : "鹿の毛皮が掛けられたなめし台。"
     },
     "GAMEPLAY_TanningRackDPS1Description" : {
                             "English" : "A tanning rack with a deer's hide attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pellejo de un ciervo enganchado a él. Completamente seco.",
+							"Japanese" : "鹿の毛皮が掛けられたなめし台。完全に乾いている。"
     },
     "GAMEPLAY_TanningRackWPS2Description" : {
                             "English" : "A tanning rack with wolf's pelt attached.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él.",
+							"Japanese" : "オオカミの毛皮が掛けられたなめし台。"
     },
     "GAMEPLAY_TanningRackWPS1Description" : {
                             "English" : "A tanning rack with a wolf's pelt attached. Completely dried.",
-							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco."
+							"Spanish (Spain)" : "Un bastidor para pieles con el pelaje de un lobo enganchado a él. Completamente seco.",
+							"Japanese" : "オオカミの毛皮が掛けられたなめし台。完全に乾いている。"
     },
 	"GAMEPLAY_Tent" : {
 							"English" : "Tarp Tent",
-							"Spanish (Spain)" : "Tienda de lona"
+							"Spanish (Spain)" : "Tienda de lona",
+							"Japanese" : "タープテント"
 	},
 	"GAMEPLAY_TentDescription" : {
 							"English" : "An improvised tent, made out of tarp sheets, some cloth and spare metal parts, barely held toghether with duct tape. Not the best, but better than sleeping out in the open.",
-							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie."
+							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie.",
+							"Japanese" : "タープシートと数枚の布、余分な金属部品をダクトテープで何とか一まとめにして作った即席のテント。最高のものではないが、青天井よりはましである。"
 	},
 	"GAMEPLAY_SatchelM" : {
 							"English" : "Ranger Satchel",
-							"Spanish (Spain)" : "Bolsa de guardabosques"
+							"Spanish (Spain)" : "Bolsa de guardabosques",
+							"Japanese" : "森林レンジャーの鞄"
 	},
 	"GAMEPLAY_SatchelMDescription" : {
 							"English" : "A well made bag for carrying small items. Durable and useful.",
-							"Spanish (Spain)" : "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil."
+							"Spanish (Spain)" : "Una bolsa de calidad fabricada para llevar objetos pequeños. Duradera y útil.",
+							"Japanese" : "しっかりとした作りの小物用鞄。丈夫で便利。"
 	},
 	"GAMEPLAY_MapML" : {
 							"English" : "Mystery Lake Map",
-							"Spanish (Spain)" : "Mapa del Lago Misterioso"
+							"Spanish (Spain)" : "Mapa del Lago Misterioso",
+							"Japanese" : "謎の湖の地図"
 	},
 	"GAMEPLAY_MapMLDescription" : {
 							"English" : "A map of Mystery Lake for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa del Lago Misterioso con fines turísticos."
+							"Spanish (Spain)" : "Un mapa del Lago Misterioso con fines turísticos.",
+							"Japanese" : "旅行客向けの謎の湖の地図。"
 	},
 	"GAMEPLAY_MapMLDecoDescription" : {
 							"English" : "'The best place for camping'. \n\nA map of Mystery Lake for touristic purposes. \n\nYou can read on the back: \n\n'The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The area is a popular Summer-time destination with campers and hikers, but the area largely shuts down during the Winter months due to its inaccessibility'.",
-							"Spanish (Spain)" : "'El mejor lugar para acampar'. \n\nUn mapa del Lago Misterioso con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La región de Lago Misterioso un valle alpino, con una altitud media de 1200 metros por encima del nivel del mar, llamada así por el gran lago que domina la zona sur-este. El área es un destino popular durante el verano para campistas y senderistas, pero que se cierra en gran medida durante el invierno debido a su innacesibilidad'."
+							"Spanish (Spain)" : "'El mejor lugar para acampar'. \n\nUn mapa del Lago Misterioso con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La región de Lago Misterioso un valle alpino, con una altitud media de 1200 metros por encima del nivel del mar, llamada así por el gran lago que domina la zona sur-este. El área es un destino popular durante el verano para campistas y senderistas, pero que se cierra en gran medida durante el invierno debido a su innacesibilidad'.",
+							"Japanese" : "「キャンピングに最適な場所」。\n\n観光客用の謎の湖の地図。\n\n裏側にはこう書いてある：\n\n謎の湖地域は高山の渓谷に当たり、平均標高は海抜1200メートル、地域の南東部を占める大きな湖にちなんでこう名付けられました。この地域はキャンパーやハイカーに人気のある夏の観光地ですが、アクセスの悪さから冬期はほとんど閉鎖されます。"
 	},
 	"GAMEPLAY_MapMT" : {
 							"English" : "Milton Map",
-							"Spanish (Spain)" : "Mapa de Milton"
+							"Spanish (Spain)" : "Mapa de Milton",
+							"Japanese" : "ミルトンの地図"
 	},
 	"GAMEPLAY_MapMTDescription" : {
 							"English" : "A map of Milton for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de Milton con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de Milton con fines turísticos.",
+							"Japanese" : "旅行客向けのミルトンの地図。"
 	},
 	"GAMEPLAY_MapMTDecoDescription" : {
 							"English" : "'Meet the locals'. \n\nA map of Milton for touristic purposes. \n\nYou can read on the back: \n\n'Founded in 1911 during the early rush to mine coal in the surrounding mountains, Milton went through a boom/bust cycle throughout the 1900s, at one point peaking at about 1000 residents. Its location, about halfway between Port Mary and the interior mountains, gave it a natural advantage as a convenient stopping off point for fuel and supplies'.",
-							"Spanish (Spain)" : "'Conoce a los lugareños'. \n\nUn mapa de Milton con fines turísticos. \n\nPuedes leer en el reverso: \n\n'Fundado en 1911 durante la fiebre por minar carbón en las montañas que lo rodean, Milton pasó por un ciclo de boom y fracaso durante los 1900, en algún punto llegando a los 1000 habitantes. Su localización, a mitad de camino entre Puerto Mary y las montañas interiores, le daba una ventaja natural como una parada conveniente para repostar combustible y suministros'."
+							"Spanish (Spain)" : "'Conoce a los lugareños'. \n\nUn mapa de Milton con fines turísticos. \n\nPuedes leer en el reverso: \n\n'Fundado en 1911 durante la fiebre por minar carbón en las montañas que lo rodean, Milton pasó por un ciclo de boom y fracaso durante los 1900, en algún punto llegando a los 1000 habitantes. Su localización, a mitad de camino entre Puerto Mary y las montañas interiores, le daba una ventaja natural como una parada conveniente para repostar combustible y suministros'.",
+							"Japanese" : "「土地との出会い」\n\n観光客用のミルトンの地図。\n\n裏側にはこう書いてある：\n\n1911年、周辺の山々での石炭採掘ラッシュが始まったころに設立されたミルトンは、1900年代を通じて好景気と不景気のサイクルを繰り返し、一時は人口約1000人のピークを迎えました。ポートメアリーと内陸の山々のほぼ中間という立地は、燃料や物資の補給に便利な中継地点として地の利を得ていました。"
 	},
 	"GAMEPLAY_MapBI" : {
 							"English" : "Bleak Inlet Map",
-							"Spanish (Spain)" : "Mapa de la Ensenada Lóbrega"
+							"Spanish (Spain)" : "Mapa de la Ensenada Lóbrega",
+							"Japanese" : "荒涼なる入り江の地図"
 	},
 	"GAMEPLAY_MapBIDescription" : {
 							"English" : "A map of Bleak Inlet for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de la Ensenada Lóbrega con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de la Ensenada Lóbrega con fines turísticos.",
+							"Japanese" : "旅行客向けの荒涼なる入り江の地図。"
 	},
 	"GAMEPLAY_MapBIDecoDescription" : {
 							"English" : "'Heart of the industry'. \n\nA map of Bleak Inlet for touristic purposes. \n\nYou can read on the back: \n\n'Bleak Inlet was one of the most important economic hubs Great Bear had in the late 90's, with the most prominent source of income being the 'Last Resort' cannery and export docks, home for both fishers and factory workers. The name of the region, Bleak Inlet, is from a post-collapse origin, as this place was completely abandoned shortly after'.",
-							"Spanish (Spain)" : "'Corazón de la industria'. \n\nUn mapa de la Ensenada Lóbrega con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Ensenada Lóbrega fue uno de los centros económicos más importantes de Gran Oso a finales de los 90, siendo la fuente más prominente de ingresos la fábrica de conservas y muelles de exportación 'Último Recurso', hogar tanto para pescadores como trabajadores de fábrica. El nombre de la región es de origen post-colapso, ya que este lugar fue abandonado poco después'."
+							"Spanish (Spain)" : "'Corazón de la industria'. \n\nUn mapa de la Ensenada Lóbrega con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Ensenada Lóbrega fue uno de los centros económicos más importantes de Gran Oso a finales de los 90, siendo la fuente más prominente de ingresos la fábrica de conservas y muelles de exportación 'Último Recurso', hogar tanto para pescadores como trabajadores de fábrica. El nombre de la región es de origen post-colapso, ya que este lugar fue abandonado poco después'.",
+							"Japanese" : "「工業の心臓部」\n\n観光客用の荒涼なる入り江の地図。\n\n裏側にはこう書いてある：\n\n荒涼なる入り江は90年代後半のグレートベアが有していた最も重要な経済拠点の一つで、最も顕著な収入源は「ラストリゾート」缶詰工場と積み出し埠頭で、漁師と工場労働者双方にとっての我が家でもありました。この地域の名称である「荒涼なる入り江」は崩壊後に付けられたもので、この地は崩壊直後に完全に放棄されました。"
 	},
 	"GAMEPLAY_MapPV" : {
 							"English" : "Pleasant Valley Map",
-							"Spanish (Spain)" : "Mapa del Valle Apacible"
+							"Spanish (Spain)" : "Mapa del Valle Apacible",
+							"Japanese" : "プレザント・バレーの地図"
 	},
 	"GAMEPLAY_MapPVDescription" : {
 							"English" : "A map of Pleasant Valley for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa del Valle Apacible con fines turísticos."
+							"Spanish (Spain)" : "Un mapa del Valle Apacible con fines turísticos.",
+							"Japanese" : "旅行客向けのプレザント・バレーの地図。"
 	},
 	"GAMEPLAY_MapPVDecoDescription" : {
 							"English" : "'Food for the island'. \n\nA map of Pleasant Valley for touristic purposes. \n\nYou can read on the back: \n\n'Pleasant Valley’s harsh and remote location, even for Great Bear Island, has shaped much of its history and the character of its residents. The Valley’s geography -- wide, open fields ringed by jagged mountain ranges -- creates unusually strong weather events. Locals have long told of multi-day storms, high winds, and a deep, endless cold during the Winter months'.",
-							"Spanish (Spain)" : "'Comida para la isla'.\n\nUn mapa del Valle Apacible con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La dura y remota localización del Valle Apacible, incluso para la isla de Gran Oso, ha moldeado su historia y el carácter de sus habitantes. La geografía del valle -- amplios y abiertos campos anillados por puntiagudas cadenas montañosas -- crea a menudo fuertes temporales. Los lugareños cuentan sobre tormentas que duran días, fuertes vientos, y de un profundo e interminable frío durante los meses de invierno'."
+							"Spanish (Spain)" : "'Comida para la isla'.\n\nUn mapa del Valle Apacible con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La dura y remota localización del Valle Apacible, incluso para la isla de Gran Oso, ha moldeado su historia y el carácter de sus habitantes. La geografía del valle -- amplios y abiertos campos anillados por puntiagudas cadenas montañosas -- crea a menudo fuertes temporales. Los lugareños cuentan sobre tormentas que duran días, fuertes vientos, y de un profundo e interminable frío durante los meses de invierno'.",
+							"Japanese" : "「島のパンかご」\n\n観光客用のプレザント・バレーの地図。\n\n裏側にはこう書いてある：\n\nプレザント・バレーは、グレートベア島の中でも過酷で人里離れた場所にあり、そのことが歴史と住民の性格の多くを形作ってきました。バレーの地理は -- ギザギザの尾根にぐるりと囲まれている広く開けた平地 -- 異常に強烈な気象現象を生み出しています。地元の人々は、何日も続く嵐、強風、そして冬の間は果てしなく続く深い寒さについて語ってきました。"
 	},
 	"GAMEPLAY_MapCH" : {
 							"English" : "Coastal Highway Map",
-							"Spanish (Spain)" : "Mapa de la Autovía Litoral"
+							"Spanish (Spain)" : "Mapa de la Autovía Litoral",
+							"Japanese" : "沿岸のハイウェイの地図"
 	},
 	"GAMEPLAY_MapCHDescription" : {
 							"English" : "A map of Coastal Highway for touristic purposes.",
-							"Spanish (Spain)" : "Un mapa de la Autovía Litoral con fines turísticos."
+							"Spanish (Spain)" : "Un mapa de la Autovía Litoral con fines turísticos.",
+							"Japanese" : "旅行客向けの沿岸のハイウェイの地図。"
 	},
 	"GAMEPLAY_MapCHDecoDescription" : {
 							"English" : "'Enjoy the views'. \n\nA map of Coastal Highway for touristic purposes. \n\nYou can read on the back: \n\n'The Great Bear Highway, also known as Highway 15, was built around the early 2000s as a way to facilitate transportation of goods from the mainland, as making easier going on a trip to the island. The construction of the coastal highway was heavily criticized by both islanders and a group of activist called 'The Forest Talkers', mostly because it caused the decline of the regional nature and economic activities from isolated towns'.",
-							"Spanish (Spain)" : "'Disfruta las vistas'. \n\nUn mapa de la Autovía Litoral con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Autovía de Gran Oso, también conocida como Autovía 15, fue construida sobre principios de los 2000 como forma de facilitar el transporte de mercancías desde el continente, así cómo de hacer más fácil los viajes a la isla. La construcción de la autovía costera fue fuertemente criticada tanto por los isleños como por un grupo activista llamado 'Los Oradores del Bosque', principalmente porque causaba la disminución de la naturraleza regional y de las actividades económicas de pueblos remotos'."
+							"Spanish (Spain)" : "'Disfruta las vistas'. \n\nUn mapa de la Autovía Litoral con fines turísticos. \n\nPuedes leer en el reverso: \n\n'La Autovía de Gran Oso, también conocida como Autovía 15, fue construida sobre principios de los 2000 como forma de facilitar el transporte de mercancías desde el continente, así cómo de hacer más fácil los viajes a la isla. La construcción de la autovía costera fue fuertemente criticada tanto por los isleños como por un grupo activista llamado 'Los Oradores del Bosque', principalmente porque causaba la disminución de la naturraleza regional y de las actividades económicas de pueblos remotos'.",
+							"Japanese" : "「眺めを楽しもう」\n\n観光客用の沿岸のハイウェイの地図。\n\n裏側にはこう書いてある：\グレートベア・ハイウェイ、またの名をハイウェイ15は、本土からの物資の輸送を容易にし、島への旅行をしやすくするために2000年代初頭に建設されました。沿岸のハイウェイの建設工事は、島民と 「森の空論家」と呼ばれる活動家グループの両方から激しく批判されましたが、その主たる理由は隔てられた町々の地域性と経済活動の衰退を招いたからです。"
 	},
 	"GAMEPLAY_TentBear" : {
 							"English" : "Hunter's Tent",
-							"Spanish (Spain)" : "Tienda de cazador"
+							"Spanish (Spain)" : "Tienda de cazador",
+							"Japanese" : "狩人のテント"
 	},
 	"GAMEPLAY_TentBearDescription" : {
 							"English" : "A heavy and sturdy tent, made out of bear hide and wood. Will hold during blizzards and maybe scare wolves.",
-							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos."
+							"Spanish (Spain)" : "Una tienda de campaña pesada y resistente, fabricada a partir de pieles de oso y madera. Aguantará ventiscas y quizás auyente a los lobos.",
+							"Japanese" : "クマの毛皮と枝木で作られた重く丈夫なテント。ブリザードに耐え、オオカミを追い払えるかもしれない。"
 	},
 	"GAMEPLAY_Book1011" : {
 							"English" : "Survival 101 Vol.1",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.1"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.1",
+							"Japanese" : "サバイバル101 Vol.1"
 	},
 	"GAMEPLAY_Book1011Description" : {
 							"English" : "1st volume of a series. This one is called 'Camping Outside'. This book teaches you how to start making lasting fires.",
-							"Spanish (Spain)" : "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos."
+							"Spanish (Spain)" : "Primer volumen de una serie. Este se llama 'Acamapar Fuera'. Este libro te enseña como empezar a hacer fuegos duraderos.",
+							"Japanese" : "シリーズ第1巻。『野営編』と呼ばれている。この本は君に長持ちする火種の作り方について教えてくれる。"
 	},
 	"GAMEPLAY_Book1012" : {
 							"English" : "Survival 101 Vol.2",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.2"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.2",
+							"Japanese" : "サバイバル101 Vol.2"
 	},
 	"GAMEPLAY_Book1012Description" : {
 							"English" : "2nd volume of a series. This one is called 'Cooking Basics'. This book teaches you how to properly prepare food.",
-							"Spanish (Spain)" : "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada."
+							"Spanish (Spain)" : "Segundo volumen de una serie. Este se llama 'Principios de la Cocina'. Este libro te enseña como preparar comida de forma adecuada.",
+							"Japanese" : "シリーズ第2巻。『調理の基礎編』と呼ばれている。この本は君に食材の適切な調理方法について教えてくれる。"
 	},
 	"GAMEPLAY_Book1013" : {
 							"English" : "Survival 101 Vol.3",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.3"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.3",
+							"Japanese" : "サバイバル101 Vol.3"
 	},
 	"GAMEPLAY_Book1013Description" : {
 							"English" : "3rd volume of a series. This one is called 'Clothing Misfortune'. This book teaches you how to mend worn out clothes.",
-							"Spanish (Spain)" : "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada."
+							"Spanish (Spain)" : "Tercer volumen de una serie. Este se llama 'Infortunios en la Ropa'. Este libro te enseña como arreglar ropa desgarrada.",
+							"Japanese" : "シリーズ第3巻。『衣服の災難編』と呼ばれている。この本は君にすり切れた衣類の修繕について教えてくれる。"
 	},
 	"GAMEPLAY_Book1014" : {
 							"English" : "Survival 101 Vol.4",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.4"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.4",
+							"Japanese" : "サバイバル101 Vol.4"
 	},
 	"GAMEPLAY_Book1014Description" : {
 							"English" : "4th volume of a series. This one is called 'Mind the Hook'. This book teaches you how to fish in frozen landscapes.",
-							"Spanish (Spain)" : "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados."
+							"Spanish (Spain)" : "Cuarto volumen de una serie. Este se llama 'Atención al Anzuelo'. Este libro te enseña como pescar en parajes congelados.",
+							"Japanese" : "シリーズ第4巻。『釣り針へのこだわり編』と呼ばれている。この本は君に凍り付いた土地での釣りについて教えてくれる。"
 	},
 	"GAMEPLAY_Book1015" : {
 							"English" : "Survival 101 Vol.5",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.5"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.5",
+							"Japanese" : "サバイバル101 Vol.5"
 	},
 	"GAMEPLAY_Book1015Description" : {
 							"English" : "5th volume of a series. This one is called 'Stalking Prey'. This book teaches you how to hunt with a bow.",
-							"Spanish (Spain)" : "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco."
+							"Spanish (Spain)" : "Quinto volumen de una serie. Este se llama 'Acechando Presas'. Este libro te enseña como cazar con arco.",
+							"Japanese" : "シリーズ第5巻。『忍び歩き編』と呼ばれている。この本は君に弓を使った狩猟法について教えてくれる。"
 	},
 	"GAMEPLAY_Book1016" : {
 							"English" : "Survival 101 Vol.6",
-							"Spanish (Spain)" : "Supervivencia para principiantes Vol.6"
+							"Spanish (Spain)" : "Supervivencia para principiantes Vol.6",
+							"Japanese" : "サバイバル101 Vol.6"
 	},
 	"GAMEPLAY_Book1016Description" : {
 							"English" : "6th volume of a series. This one is called 'Handling Carcasses'. This book teaches you how to properly harvest prey and get the best out of it.",
-							"Spanish (Spain)" : "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas."
+							"Spanish (Spain)" : "Sexto volumen de una serie. Este se llama 'Manipular Cadáveres'. Este libro te enseña como sacar el mayor provecho de tus presas.",
+							"Japanese" : "シリーズ第6巻。『死体処理編』と呼ばれている。この本は君に獲物の適切な解体と活用について教えてくれる。"
 	},
 	"GAMEPLAY_CT_MapLabel" : {
 							"English" : "Survey",
-							"Spanish (Spain)" : "Investigar"
+							"Spanish (Spain)" : "Investigar",
+							"Japanese" : "調査"
 	},
 	"GAMEPLAY_CT_MapProgressBar" : {
 							"English" : "Surveying...",
-							"Spanish (Spain)" : "Investigando..."
+							"Spanish (Spain)" : "Investigando...",
+							"Japanese" : "調査中…"
 	},
 	"GAMEPLAY_CT_InteriorError" : {
 							"English" : "You can't survey a map on interiors."
-							"Spanish (Spain)" : "No puedes investigar un mapa en interiores."
+							"Spanish (Spain)" : "No puedes investigar un mapa en interiores.",
+							"Japanese" : "屋内では調査できません。"
 	},
 	"GAMEPLAY_CT_RegionError" : {
 							"English" : "You can't survey a map without references."
-							"Spanish (Spain)" : "No puedes investigar un mapa sin referencias."
+							"Spanish (Spain)" : "No puedes investigar un mapa sin referencias.",
+							"Japanese" : "参考資料なしでは調査できません。"
 	},
 	"GAMEPLAY_CT_TRackButton" : {
 							"English" : "Assemble"
-							"Spanish (Spain)" : "Montar"
+							"Spanish (Spain)" : "Montar",
+							"Japanese" : "組み立て"
 	},
 	"GAMEPLAY_CT_TRackDeerS" : {
 							"English" : "Deer Hide (Single)"
-							"Spanish (Spain)" : "Piel de ciervo (Unidad)"
+							"Spanish (Spain)" : "Piel de ciervo (Unidad)",
+							"Japanese" : "鹿の毛皮（1枚）"
 	},
 	"GAMEPLAY_CT_TRackWolfS" : {
 							"English" : "Wolf Pelt (Single)"
-							"Spanish (Spain)" : "Piel de lobo (Unidad)"
+							"Spanish (Spain)" : "Piel de lobo (Unidad)",
+							"Japanese" : "オオカミの毛皮（1枚）"
 	},
 	"GAMEPLAY_CT_TRackBear" : {
 							"English" : "Bear Hide"
-							"Spanish (Spain)" : "Piel de oso"
+							"Spanish (Spain)" : "Piel de oso",
+							"Japanese" : "クマの毛皮"
 	},
 	"GAMEPLAY_CT_TRackMoose" : {
 							"English" : "Moose Hide"
-							"Spanish (Spain)" : "Piel de alce"
+							"Spanish (Spain)" : "Piel de alce",
+							"Japanese" : "ヘラジカの毛皮"
 	},
 	"GAMEPLAY_CT_PlaceLabel" :{
 							"English" : "Place",
-							"Spanish (Spain)" : "Colocar"
+							"Spanish (Spain)" : "Colocar",
+							"Japanese" : "配置"
 	}
 }
